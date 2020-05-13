@@ -1,5 +1,5 @@
 # Basic Site Information
-title: jiayi
+title: shieldjy
 author: jiayi
 post_author: Li Jiayi
 description: Li Jiayi，student now majoring electronics in Tongji Uni., Shanghai.
@@ -10,8 +10,8 @@ about: Embedded Systems, FPGA, Integrated Circuits
 logo: /assets/img/logo.png
 icon: /favicon.ico
 avatar:
-  img: /assets/img/mvp.svg
-  alt: Microsoft MVP
+  img: /assets/img/name.svg
+  alt: Li Jiayi
   url: https://shieldjy.github.io/about/
   hint: Open my Curriculum Vitae
 license:
