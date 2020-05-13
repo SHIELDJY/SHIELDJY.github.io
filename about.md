@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于吕毅
+title: About Jiayi
 permalink: /about/
 ---
 
