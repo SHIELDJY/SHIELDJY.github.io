@@ -10,9 +10,7 @@ Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi199
 
 ---
 
-### Education Backgrounds
 ![Education_Background](/static/posts/About_Edu_BG.svg)
-
 #### - BACHELOR / 2021(EXPECTED) / TONGJI UNIVERSITY, CHINA
 
 - Major  : Electronics
@@ -33,8 +31,7 @@ Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi199
 
 ---
 
-### Achievements
-
+![Achievements](/static/posts/About_Achievements.svg)
 #### SCHOLARSHIP
 
 - 2nd Prize of Tongji Scholarship of Excellence [2018.10]
@@ -53,8 +50,7 @@ Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi199
 
 ---
 
-### SKILLS
-
+![Skills](/static/posts/About_Skills.svg)
 ** EMBEDDED SYSTEM DEVELOPMENT
 
 - Fluent in C programming for embedded systems, including STM32F1/4 and NXP K60 series.
