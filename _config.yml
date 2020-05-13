@@ -96,11 +96,11 @@ defaults:
       permalink: "/article/:title.html"
   - scope:
       path: "_private"
-      type: "articles"
+      type: "private articles"
     values:
       layout: "post"
       author: "Jiayi"
-      permalink: "/article/:title.html"
+      permalink: "/private/:title.html"
 
 # Plugins
 plugins:
