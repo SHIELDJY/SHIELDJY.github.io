@@ -12,8 +12,8 @@ icon: /favicon.ico
 avatar:
   img: /assets/img/mvp.svg
   alt: Microsoft MVP
-  url: https://mvp.microsoft.com/en-us/PublicProfile/5003225
-  hint: 查看我的微软 MVP 主页
+  url: https://shieldjy.github.io/about/
+  hint: Open my Curriculum Vitae
 license:
   img: /assets/img/by-nc-sa.svg
 default-theme: light
@@ -30,7 +30,7 @@ links:
     url: /
   - title: Articles
     url: /mind
-  - title: 朋友
+  - title: Friends
     url: /friends
   - title: Open Source Projects
     url: /projects
