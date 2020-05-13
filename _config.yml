@@ -37,7 +37,7 @@ links:
   - title: About
     url: /about/
   - title: Private
-    url: /private/xinran/
+    url: /_private/xinran/
 links-light:
   - icon: users
     title: FRIENDS
