@@ -1,7 +1,7 @@
 ---
 title: "FPGA Development with wujian100 SoC - Part EIGHT: Interrupt(VIC)"
-publishDate: 2020-04-13
-date: 2020-04-13
+publishDate: 2020-04-13 09:19:06 +0800
+date: 2020-04-13 09:19:06 +0800
 categories: FPGA CDK wujian100 VIC
 position: blog
 ---

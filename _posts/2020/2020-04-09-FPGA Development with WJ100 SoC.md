@@ -1,7 +1,7 @@
 ---
 title: "FPGA Development with wujian100 SoC - Part SEVEN: TIMER"
-publishDate: 2020-04-09
-date: 2020-04-09
+publishDate: 2020-04-09 09:19:06 +0800
+date: 2020-04-09 09:19:06 +0800
 categories: FPGA CDK wujian100 TIMER
 position: blog
 ---
