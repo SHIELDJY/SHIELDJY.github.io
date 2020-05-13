@@ -1,5 +1,5 @@
 ---
 layout: project
-title: 开源项目
+title: Projects
 permalink: /projects/
 ---
