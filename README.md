@@ -1,9 +1,11 @@
-# walterlv.github.io
+# shieldjy.github.io
 
-| **English** | 简体中文 | 繁體中文 | 日本語 | Add More... |
-|---|---|---|---|---|
+| **English** | 简体中文 |
+|---|---|
 
-HomePage: [walterlv.github.io](walterlv.github.io)  
-Repositories: [https://github.com/walterlv](https://github.com/walterlv)  
+HomePage: [shieldjy.github.io](shieldjy.github.io)  
+Repositories: [https://github.com/shieldjy](https://github.com/shieldjy)  
 
 ---
+
+* Thanks to [walterlv](walterlv.github.io) for its repo of a themed Jekyll so that I could write blogs on.
