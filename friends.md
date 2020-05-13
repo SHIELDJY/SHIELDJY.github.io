@@ -47,7 +47,7 @@ permalink: /friends/
 
 ---
 
-## 朋友
+## FRIENDS
 
 - [吕毅](https://codedefault.com/) .NET and Windows Developer, Microsoft MVP
 - [Yuxi](www..com) Bioengineer
