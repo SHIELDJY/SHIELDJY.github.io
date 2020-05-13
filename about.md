@@ -11,6 +11,7 @@ Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi199
 ---
 
 ### Education Backgrounds
+![Education_Background](/static/posts/About_Edu_BG.svg)
 
 #### - BACHELOR / 2021(EXPECTED) / TONGJI UNIVERSITY, CHINA
 
