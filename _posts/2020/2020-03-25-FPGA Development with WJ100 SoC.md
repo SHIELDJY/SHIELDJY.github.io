@@ -1,6 +1,6 @@
 ---
 title: "FPGA Development with wujian100 SoC - Part One: Bitsream Generation"
-date: 2020-03-35 09:00:25 +0800
+date: 2020-03-25 09:00:25 +0800
 categories: FPGA
 position: blog
 ---
