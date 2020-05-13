@@ -6,12 +6,19 @@ categories: web
 position: blog
 ---
 
+How to build a personal blog with Github pages.
+
+---
+
+<div id="toc"></div>
 
 ## Something to say
 
 After meeting many obstacles, I copied a repository from qiubaiying.
 
 The original repository is <https://github.com/qiubaiying/qiubaiying.github.io>
+
+Currently I am using theme by [walterlv(Lv Yi)](http://blog.walterlv.com/)
 
 Although I know nothing about html and little about GitHUb.
 
