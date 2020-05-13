@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Private
-permalink: /private/
+title: 胡思乱想
+permalink: /mind/
 ---
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
   <div id="grid" class="row flex-grid">
-    {% assign private = site.private %}
-    {% assign private = private | sort: date | reverse %}
-    {% for post in private %}
+    {% assign articles = site.articles %}
+    {% assign articles = articles | sort: date | reverse %}
+    {% for post in articles %}
       <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
         <div class="box-body">
           <div class="box-info">
