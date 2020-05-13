@@ -36,8 +36,6 @@ links:
     url: /projects
   - title: About
     url: /about/
-  - title: Private
-    url: /_private/xinran/
 links-light:
   - icon: users
     title: FRIENDS
@@ -96,13 +94,13 @@ defaults:
       layout: "post"
       author: "Jiayi"
       permalink: "/article/:title.html"
-  - scope:
-      path: "_private"
-      type: "private"
-    values:
-      layout: "post"
-      author: "Jiayi"
-      permalink: "/private/:title.html"
+  # - scope:
+  #     path: "_private"
+  #     type: "private"
+  #   values:
+  #     layout: "post"
+  #     author: "Jiayi"
+  #     permalink: "/private/:title.html"
 
 # Plugins
 plugins:
