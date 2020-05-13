@@ -1,5 +1,5 @@
 ---
-title: "了解 Windows/Linux 下命令行/Shell 启动程序传参的区别，这下不用再担心 Windows 下启动程序传参到 Linux 下挂掉了"
+title: "Hello Blog"
 publishDate: 2020-03-25 09:01:00 +0800
 date: 2020-03-25 09:00:00 +0800
 categories: web
