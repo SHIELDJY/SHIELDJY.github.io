@@ -1,7 +1,7 @@
 ---
 title: "FPGA Development with wujian100 SoC - Part Two: CDK Toolkit and wujian100 SDK"
 publishDate: 2020-03-27 09:19:06 +0800
-date: 2020-03-37 09:19:06 +0800
+date: 2020-03-37 09:00:25 +0800
 categories: FPGA CDK
 position: blog
 ---

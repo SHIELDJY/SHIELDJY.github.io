@@ -1,7 +1,7 @@
 ---
 title: "FPGA Development with wujian100 SoC - Part Three: Start a New Project on CDK"
 publishDate: 2020-03-29 09:19:06 +0800
-date: 2020-03-39 09:19:06 +0800
+date: 2020-03-39 09:00:25 +0800
 categories: FPGA CDK
 position: blog
 ---

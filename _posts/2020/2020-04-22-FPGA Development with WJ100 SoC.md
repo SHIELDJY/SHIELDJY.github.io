@@ -1,7 +1,7 @@
 ---
 title: "SoC on FPGA - Part One: Overview"
 publishDate: 2020-04-22 09:19:06 +0800
-date: 2020-04-22 09:19:06 +0800
+date: 2020-04-22 09:00:25 +0800
 categories: FPGA SoC
 position: blog
 ---

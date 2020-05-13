@@ -1,7 +1,7 @@
 ---
 title: "FPGA Development with wujian100 SoC - Part Six: UART"
 publishDate: 2020-04-08 09:19:06 +0800
-date: 2020-04-08 09:19:06 +0800
+date: 2020-04-08 09:00:25 +0800
 categories: FPGA CDK wujian100
 position: blog
 ---

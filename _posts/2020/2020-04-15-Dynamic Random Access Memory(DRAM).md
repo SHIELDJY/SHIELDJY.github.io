@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Random Access Memory"
 publishDate: 2020-04-15 09:19:06 +0800
-date: 2020-04-15 09:19:06 +0800
+date: 2020-04-15 09:00:25 +0800
 categories: DRAM
 position: blog
 ---
