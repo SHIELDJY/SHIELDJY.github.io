@@ -28,8 +28,8 @@ url: "https://shieldjy.github.io"
 links:
   - title: Blog
     url: /
-  - title: Articles
-    url: /mind
+  # - title: Articles
+  #   url: /mind
   - title: Friends
     url: /friends
   - title: Open Source Projects
