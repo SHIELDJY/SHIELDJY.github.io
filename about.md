@@ -12,7 +12,8 @@ Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi199
 
 ![Education_Background](/static/posts/About_Edu_BG.svg)
 
-#### · BACHELOR / 2021(EXPECTED) / TONGJI UNIVERSITY, CHINA <img src="http://photo.tongji.edu.cn/_mediafile/tjtk/photos/2010-8-27/b201082711479.jpg" width = "100" height = "100" div align=right />
+#### · BACHELOR / 2021(EXPECTED) / TONGJI UNIVERSITY, CHINA 
+<img src="http://photo.tongji.edu.cn/_mediafile/tjtk/photos/2010-8-27/b201082711479.jpg" width = "100" height = "100" div align=right />
 
 - Major  : Electronics
 - Minor  : German
