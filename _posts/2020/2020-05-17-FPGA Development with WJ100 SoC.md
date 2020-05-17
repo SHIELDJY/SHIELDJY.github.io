@@ -41,22 +41,39 @@ However, as I talked before, it is a open source project and as I believed, the 
 
 This tutorial is for those who utilize vivado to generate bitstream file and CDK to develop your own projects on *Windows*.
 
-* For Part 1 Bitsream Generation please refer to [Part_1_Bitstream_Generation](https://shieldjy.github.io/2020/03/25/FPGA-Development-with-WJ100-SoC/).
+* For Part 1 Bitsream Generation please refer to [Part_1_Bitstream_Generation](https://shieldjy.github.io/post/FPGA-Development-with-WJ100-SoC-P1.html).
 
-* For Part 2 CDK Toolkit and wujian100 SDK please refer to [Part_2_CDK_Toolkit&Wujian100_SDK](https://shieldjy.github.io/2020/03/27/FPGA-Development-with-WJ100-SoC/).
+* For Part 2 CDK Toolkit and wujian100 SDK please refer to [Part_2_CDK_Toolkit&Wujian100_SDK](https://shieldjy.github.io/post/FPGA-Development-with-WJ100-SoC-P2.html).
 
-* For Part 3 Start a New Project on CDK please refer to [Part_3_Start_a_New_Project_on_CDK](https://shieldjy.github.io/2020/03/29/FPGA-Development-with-WJ100-SoC/)
+* For Part 3 Start a New Project on CDK please refer to [Part_3_Start_a_New_Project_on_CDK](https://shieldjy.github.io/post/FPGA-Development-with-WJ100-SoC-P3.html)
 
-* For Part 4 Hello World please refer to [Part4_Hello_World](https://shieldjy.github.io/2020/03/31/FPGA-Development-with-WJ100-SoC/)
+* For Part 4 Hello World please refer to [Part4_Hello_World](https://shieldjy.github.io/post/FPGA-Development-with-WJ100-SoC-P4.html)
 
-* For Part 5 GPIO please refer to [Part5_GPIO](https://shieldjy.github.io/2020/04/06/FPGA-Development-with-WJ100-SoC/)
+* For Part 5 GPIO please refer to [Part5_GPIO](https://shieldjy.github.io/post/FPGA-Development-with-WJ100-SoC-P5.html)
 
-* For Part 6 UART please refer to [Part6_UART](https://shieldjy.github.io/2020/04/08/FPGA-Development-with-WJ100-SoC/)
+* For Part 6 UART please refer to [Part6_UART](https://shieldjy.github.io/post/FPGA-Development-with-WJ100-SoC-P6.html)
 
-* For Part 7 TIMER please refer to [Part7_TIMER](https://shieldjy.github.io/2020/04/08/FPGA-Development-with-WJ100-SoC/)
+* For Part 7 TIMER please refer to [Part7_TIMER](https://shieldjy.github.io/post/FPGA-Development-with-WJ100-SoC-P7.html)
 
-* For Part 8 Interrupt please refer to [Part8_VIC](https://shieldjy.github.io/2020/04/08/FPGA-Development-with-WJ100-SoC/)
+* For Part 8 Interrupt please refer to [Part8_VIC](https://shieldjy.github.io/post/FPGA-Development-with-WJ100-SoC-P8.html)
 
-### Part 8 Interrupt
+---
 
-#### 1 What is Interrupt
+### Part 9 Bugs Issue
+
+#### 001 return problem
+
+category | compiler bug
+solved | NO
+confirmed | YES
+Discription | As shown in code block, delay_flag will become 0 when interrupt is triggered. However, after I tested several times, whatever the judgment condition is, i.e. `delay_flag <= 0` or `delay_flag != 1`, the function just seems to stuck with `while`. And further experiments conducted by adding a `printf` function in the `if` statement shows that the judgement would work so that the only bug is about `return` statement. More informantion is digged when I see what is wrong with the assemble language and I found there is no `jmp` to return to the function where it originally is but a `jmp` statement to return to something implements the infinite `while` loop. Further experiments showns that this problem occurs when there are more than 3 times of loop in `while` and then it will enter some infinite loop.
+
+```c
+    while(1){
+        if (delay_flag == 0) {
+            return 0;
+        }
+    }
+```
+
+*Feel free to comment for your opinions or bugs you have found, I will continuously update this bug issue article.*
