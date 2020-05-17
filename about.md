@@ -4,6 +4,8 @@ title: About Jiayi
 permalink: /about/
 ---
 
+<div align=right>![jiayi_pic](/assets/img/jiayi_pic.jpg)
+
 ## Jiayi Li
 
 Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi19971127@hotmail.com
