@@ -4,7 +4,8 @@ title: About Jiayi
 permalink: /about/
 ---
 
-<div align=right>![jiayi_pic](/assets/img/jiayi_pic.jpg)
+<div align=right>![jiayi_pic](/assets/img/jiayi_pic.jpg)</div>
+<img src="/assets/img/jiayi_pic.jpg" width = "100" height = "100" div align=right />
 
 ## Jiayi Li
 
