@@ -11,7 +11,8 @@ Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi199
 ---
 
 ![Education_Background](/static/posts/About_Edu_BG.svg)
-#### - BACHELOR / 2021(EXPECTED) / TONGJI UNIVERSITY, CHINA
+
+#### · BACHELOR / 2021(EXPECTED) / TONGJI UNIVERSITY, CHINA <img src="http://photo.tongji.edu.cn/_mediafile/tjtk/photos/2010-8-27/b201082711479.jpg" width = "100" height = "100" div align=right />
 
 - Major  : Electronics
 - Minor  : German
@@ -19,12 +20,12 @@ Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi199
 - GPA(2nd and 3rd year) : 89/100
 - Related Courses: Embedded System, ASICs, Semiconductor Physics and Devices, etc.
 
-#### - EXCHANGE STUDENT / 2018.9-2019.1 / NATIONAL CHIAO-TUNG UNIVERSITY, TAIWAN
+#### · EXCHANGE STUDENT / 2018.9-2019.1 / NATIONAL CHIAO-TUNG UNIVERSITY, TAIWAN
 
 - Major  : Electronics
 - GPA  : 4.0/4.0
 
-#### LANGUAGE PROFICIENCY
+#### · LANGUAGE PROFICIENCY
 
 - TOEFL  : 98 [2018.5]
 - GER German : B2 [Expected in 2020.7]
@@ -32,6 +33,7 @@ Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi199
 ---
 
 ![Achievements](/static/posts/About_Achievements.svg)
+
 #### SCHOLARSHIP
 
 - 2nd Prize of Tongji Scholarship of Excellence [2018.10]
