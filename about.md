@@ -5,12 +5,9 @@ permalink: /about/
 ---
 
 <div align="right">
-![jiayi_pic](/assets/img/jiayi_pic.jpg)
+![jiayi_pic](/assets/img/jiayi_pic.jpg){:height="50%" width="50%"}
 </div>
 
-<img src="/assets/img/jiayi_pic.jpg" width = "100" alt = "jiayi_pic" height = "100" align =right />
-
-![jiayi_pic](/assets/img/jiayi_pic.jpg){:height="50%" width="50%"}
 ## Jiayi Li
 
 Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi19971127@hotmail.com
