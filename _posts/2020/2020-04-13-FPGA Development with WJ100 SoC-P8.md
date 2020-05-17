@@ -55,7 +55,7 @@ This tutorial is for those who utilize vivado to generate bitstream file and CDK
 
 * For Part 7 TIMER please refer to [Part7_TIMER](https://shieldjy.github.io/2020/04/08/FPGA-Development-with-WJ100-SoC/)
 
-### Part 7 TIMER
+### Part 8 Interrupt
 
 #### 1 What is Interrupt
 
