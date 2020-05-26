@@ -1,6 +1,8 @@
 ---
 title: "FPGA Development with wujian100 SoC - Part Nine: Working on Bugs"
 date: 2020-05-17 15:44:25 +0800
+categories: projects
+position: blog
 layout: project
 ---
 
