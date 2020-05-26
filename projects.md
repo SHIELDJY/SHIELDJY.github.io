@@ -24,7 +24,7 @@ Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS c
 
 2. The basic dimension of the car is $27cm\times16.4cm\times13.8cm$.
 
-   <img src="E:\Documents\GitHub\walterlv.github.io\assets\img\Projects\project_img_1.jpg" alt="project_img_1" style="zoom:50%;" />
+   <img src="assets\img\Projects\project_img_1.jpg" alt="project_img_1" style="zoom:50%;" />
 
    *Figure1 Pic for the Smart Car*
 
@@ -32,11 +32,11 @@ Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS c
 
 4. Four separated two-layer printed copper board (PCB)  is designed. One of the PCBs is used to stabilize, to rise or decrease voltage level and to supply power to each part of the cars. One another is used to magnify the signal received by the sensor, and one is used to connect both 5 sensors to magnifying part. The other PCB is used to drive the 2 DC Motors. Each PCB is connected by DuPont line and  cable lines to conduct signals. And 5mm copper lines are used to conduct current.
 
-   ![project_img_2](E:\Documents\GitHub\walterlv.github.io\assets\img\Projects\project_img_2.jpg)
+   ![project_img_2](assets\img\Projects\project_img_2.jpg)
 
    *FIgure2 Pic for One of the Four PCBs (with Altium Designer)*
 
-   ![project_img_3](E:\Documents\GitHub\walterlv.github.io\assets\img\Projects\project_img_3.jpg)
+   ![project_img_3](assets\img\Projects\project_img_3.jpg)
 
    *Figure3 Pic for Another of the Four PCBs (with Altium Designer)*
 
