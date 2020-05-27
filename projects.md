@@ -22,7 +22,7 @@ Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS c
 
 1. The car with 4 wheels is DC motor driven and powered by a set of 18650 battery. Direction control relies on the modeled steering gear, which has 6V driven voltage and is controlled by pulse width modulation wave(PWM). 
 
-2. The basic dimension of the car is $27cm\times16.4cm\times13.8cm$ .
+2. The basic dimension of the car is $27cm \times 16.4cm \times 13.8cm$ .
 
    <img src="assets/img/Projects/project_img_1.jpg" alt="project_img_1" style="zoom:50%;" />
 

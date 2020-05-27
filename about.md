@@ -62,4 +62,14 @@ Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi199
 - Fluent in simulation with NI Mutisim14 and circuit layout design with DXP Altium Designer.
 - Simulation with ModelSim and FPGA development with VIVADO.
 
+** Latte Artist
+
+
+
+* Besides, I make brilliant Latte. 
+
+** Photographer
+
+* Also, I have taken some awesome pictures.
+
 ![blank](/assets/img/placeholder.png)
