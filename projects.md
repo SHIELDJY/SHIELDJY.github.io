@@ -24,21 +24,21 @@ Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS c
 
 2. The basic dimension of the car is $27cm \times 16.4cm \times 13.8cm$ .
 
-   <img src="assets/img/Projects/project_img_1.jpg" alt="project_img_1" style="zoom:50%;" />
+   ![project_img_1](https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg)
 
-   *Figure1 Pic for the Smart Car*
+   *Figure1 the "Smart Car" which is everything but smart*
 
 3. A NXP® K60™ Series MCU MK60FX512VLQ10 is used as main control unit. ARM® KEIL™ $\mu Vision5$ is used to program the MCU and debug the program.
 
 4. Four separated two-layer printed copper board (PCB)  is designed. One of the PCBs is used to stabilize, to rise or decrease voltage level and to supply power to each part of the cars. One another is used to magnify the signal received by the sensor, and one is used to connect both 5 sensors to magnifying part. The other PCB is used to drive the 2 DC Motors. Each PCB is connected by DuPont line and  cable lines to conduct signals. And 5mm copper lines are used to conduct current.
 
-   ![project_img_2](assets/img/Projects/project_img_2.jpg)
+   ![project_img_2](https://s1.ax1x.com/2020/06/03/tUwftf.jpg)
 
-   *FIgure2 Pic for One of the Four PCBs (with Altium Designer)*
+   *Figure2 One of the Four PCBs (with Altium Designer)*
 
    ![project_img_3](assets/img/Projects/project_img_3.jpg)
 
-   *Figure3 Pic for Another of the Four PCBs (with Altium Designer)*
+   *Figure3 Another of the Four PCBs (with Altium Designer)*
 
 5. Software in the MCU is self-written and has reached the goal it requires, i.e. self-running  on the closed track and accomplished 3 times of meetings which could been found in Repo [Project_Sonic](https://github.com/SHIELDJY/Project_Sonic).
 
@@ -76,15 +76,26 @@ A  Integrated circuit amplifier based on Bipolar Junction Transistor (BJT) is de
 
 #### Brief
 
-A Visual Simutaneous Localization and Mapping (v-SLAM) Robot, Jixiaohei（济小黑）is designed and built to guide the Blinds who have trouble to see what is going on in the surroundings, since in China the construction of barrier-free facilities is generally lagging behind the other countries and there are few ways to make those have problem to see to walk around without professional assistants.
+A Visual Simutaneous Localization and Mapping (v-SLAM) Robot, Jixiaohei（济小黑）(Figure 4)is designed and built to guide the Blinds who have trouble to see what is going on in the surroundings, since in China the construction of barrier-free facilities is generally lagging behind the other countries and there are few ways to make those have problem to see to walk around without professional assistants.
 
 #### Description
 
-A Lidar-based SLAM robot is built formerly by  fellow students, called Jixiaobai (济小白), to provide a moblie  beverage stand. However, a binocular visual based SLAM robot is built with a $Intel_® NUC_{TM}$ as processing unit, STM32F108C3T6 in $STMicro_®$ STM32 Family  as controlling unit, two DC Motors as powering and steering unit, a Binocular camera used as visual sensor. The goal of simutaneously localization and mapping is accomplished, however, due to the irreversive PCB damage and the end of funding period, the demo is limited with a few clips of the process.
+A Lidar-based SLAM robot is built formerly by  fellow students, called Jixiaobai (济小白)(Figure 5), to provide a moblie  beverage stand. However, a binocular visual based SLAM robot is built with a $Intel NUC_{TM}$ as processing unit, STM32F108C3T6 in $STMicro$ STM32 Family as controlling unit, two DC Motors as powering and steering unit, a Binocular camera used as visual sensor. The goal of simutaneously localization and mapping is accomplished, however, due to the irreversive PCB damage and the end of funding period, the demo is limited with a few clips of the process.
 
+![project_img_5](https://s1.ax1x.com/2020/06/03/tUw59S.jpg)
+*Figure 4 Jixiaohei(Visual based SLAM Robot)*
 
+#### Demos
 
+Shown as in Figure 5, a Lidar based SLAM Robot could achieve its simutaneous localization and could accomplish its human detection to prevent some unpredictable dangers.
 
+![project_img_7](https://s1.ax1x.com/2020/06/03/tUwI1g.gif)
+*Figure 5 Demo for Jixiaobai(Lidar-based SLAM Robot by fellow students)*
 
+Shown as in Figure 6, the visual based SLAM Robot could achieve its localization and could automatically map the surroundings in a prettty precise way. The whole software is running on a docker file so that backup and back-going process could be achieved easily.
+![project_img_6](https://s1.ax1x.com/2020/06/03/tUwocQ.gif)
+*Figure 6 Demo for Jixiaohei(Visual based SLAM Robot)*
 
+ However, due to the end of funding period, our project has been stopped to achieving seperately, i.e. we have not yet make the robot move by it self since we choosed a wrong version of NUC with AMD Graphic Card and must use a Thunderbot 3 lightening interface to plug a NIVIDA Graphic Card to run demos on which consumes far more power than we have been thought so fomerly designed low-voltage and current power suppy system could not cooperate with the modified system. Besides, the tiny little robot could hardly afford such heavy two machines, /sad.
 
+ Code has been made public in [VSlamDemo](https://github.com/DmitriZhao/ROS-Navigation-Demo) and now one of our fellow students, [DmitriZhao](https://github.com/DmitriZhao), is still working on this demo in order to run a virtual visual based SLAM for other projects.
