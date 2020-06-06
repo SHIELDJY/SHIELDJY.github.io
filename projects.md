@@ -99,3 +99,11 @@ Shown as in Figure 6, the visual based SLAM Robot could achieve its localization
  However, due to the end of funding period, our project has been stopped to achieving seperately, i.e. we have not yet make the robot move by it self since we choosed a wrong version of NUC with AMD Graphic Card and must use a Thunderbot 3 lightening interface to plug a NIVIDA Graphic Card to run demos on which consumes far more power than we have been thought so fomerly designed low-voltage and current power suppy system could not cooperate with the modified system. Besides, the tiny little robot could hardly afford such heavy two machines, /sad.
 
  Code has been made public in [VSlamDemo](https://github.com/DmitriZhao/ROS-Navigation-Demo) and now one of our fellow students, [DmitriZhao](https://github.com/DmitriZhao), is still working on this demo in order to run a virtual visual based SLAM for other projects.
+
+ ---
+
+## Coursework
+
+### A Sample Crossing with Traffic Tight(in 1:250 Scale)
+
+#### Brief
