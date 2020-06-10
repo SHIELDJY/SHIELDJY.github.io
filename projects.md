@@ -42,6 +42,13 @@ Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS c
 
 5. Software in the MCU is self-written and has reached the goal it requires, i.e. self-running  on the closed track and accomplished 3 times of meetings which could been found in Repo [Project_Sonic](https://github.com/SHIELDJY/Project_Sonic).
 
+#### DEMO
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rZKlflG4iRU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+*This is Demo video for our progress in National College Smart Car Competition. Two cars meeting each other and a turnaround action have been accoplished. (The video is recorded after a sleepless long night.)*
+
 #### Honor
 
 * 3rd Place (East China) in 2018
@@ -85,7 +92,7 @@ A Lidar-based SLAM robot is built formerly by  fellow students, called Jixiaobai
 ![project_img_5](https://s1.ax1x.com/2020/06/03/tUw59S.jpg)
 *Figure 4 Jixiaohei(Visual based SLAM Robot)*
 
-#### Demos
+#### DEMOs
 
 Shown as in Figure 5, a Lidar based SLAM Robot could achieve its simutaneous localization and could accomplish its human detection to prevent some unpredictable dangers.
 
@@ -102,7 +109,7 @@ Shown as in Figure 6, the visual based SLAM Robot could achieve its localization
 
  ---
 
-## Coursework
+## Coursework(Continuously Upating)
 
 ### A Sample Crossing with Traffic Tight(in 1:250 Scale)
 
