@@ -47,7 +47,7 @@ Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS c
 <iframe width="560" height="420" src="https://www.youtube.com/embed/rZKlflG4iRU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
-*This is Demo video for our progress in National College Smart Car Competition. Two cars meeting each other and a turnaround action have been accoplished. (The video is recorded after a sleepless long night.)*
+*This is Demo video for our progress in National College Smart Car Competition. Two cars meeting each other and a turnaround action have been accoplished. (recorded after a sleepless long night)*
 
 #### Honor
 
