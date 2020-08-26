@@ -58,6 +58,45 @@ Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS c
 
 ### National Integrated Circuit Innovation and Entrepreneurship Competition
 
+### T-Head(Alibaba Group) Cup
+
+*15 May, 2020 - 23 Aug, 2020*
+
+#### Brief
+
+This contest requires us to use wujian100 SoC, an open source project developed by Ali Inc. team t-head, and a FPGA develop board with Xlinx XC7A200TR3B Core to manipulate one or several step motors so as to make the best of wujian100 SoC. So, finally we built a yuntai or in another word, a holder in combination of one 57 series step motor and one 47 series step motor with several self-made printed copper boards(PCB) and an inertial measurement unit(IMU), which, to be explicitly, is a 9-axis accelerator sensor.
+
+#### Description
+
+1. As demonstrated in Figure 4 , we use 2 step motor in connection to achieve the motor function and an Organic Light Emitted Diode (OLED) display unit as an interface. As for the communication, we utilize the bluetooth module shown also in the figure so that it could link with computers and smart phones with bluetooth serial port.
+
+   ![Figure4_jixiaotai](https://s1.ax1x.com/2020/08/26/dWL1WF.jpg)
+
+   *Figure 4 Outlook of the Device*
+
+2. The power supply circuit shown in Figure 5 is designed by ourselves, printed by the factory and soldiered on our own. And it works well during the experiment and the contest.
+   ![Figure5_PCB](https://s1.ax1x.com/2020/08/26/dWL3z4.png)
+   *(a) Schematic of Self-made PCB*
+   ![dWLQiT.jpg](https://s1.ax1x.com/2020/08/26/dWLQiT.jpg)
+   *(b) Picture of PCB*
+
+   *Figure 5 Power Supply Circuit*
+
+3. We have successfully synthesis, implement, and generate the bitstream file of wujian100 in Windows 10 environment with the help of Vivado 2018.3. wujian100 SoC is proved to be an low energy cost and a less complicated microcontroller due to its low utilization of logical gates. The output of the implementation is shown in Figure 6.
+
+   ![Figure6_post_implementation](https://s1.ax1x.com/2020/08/26/dWLlJU.jpg)
+
+   *Figure 6 Layout of FPGA after the Inplementation*
+
+4. We have developed a self-correction mode for this holder, i.e. this design could maintain its angle whenever there are any distrubulances, which is shown in the Demo below.
+
+<iframe width="560" height="420" src="https://www.youtube.com/embed/myroYvsGyDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+#### Honor
+
+* 2nd Place (National) in 2020
+
 ### NI Cup
 
 *3 Apr, 2019 - 20 Aug, 2019*
