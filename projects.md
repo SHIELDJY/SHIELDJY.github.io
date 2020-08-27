@@ -31,9 +31,11 @@ Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS c
 
 <img align="center" width="50%" height="50%" src="https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg">
 
-<center>
-   ![project_img_1](https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg)
- </center>
+<div style="text-align: center;">
+
+ ![project_img_1](https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg)
+</div>
+
 
    *Figure1 the "Smart Car" which is everything but smart*
 
