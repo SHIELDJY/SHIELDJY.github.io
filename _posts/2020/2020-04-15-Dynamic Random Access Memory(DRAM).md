@@ -18,7 +18,7 @@ Dynamic random-access memory (DRAM) is a type of random access semiconductor mem
 
 ## 2. Structure of DRAM Cells
 
-![Fig1.DRAM_Cell_Structure](https://upload.wikimedia.org/wikipedia/commons/b/bd/DRAM_Cell_Structure_%28Model_of_Single_Circuit_Cell%29.PNG)
+<img style="display: block; margin: 0 auto;" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/DRAM_Cell_Structure_%28Model_of_Single_Circuit_Cell%29.PNG" alt="" />
 *Figure 2.1 DRAM Cell Structure*
 
 From figure 2.1, as we could see, DRAM is actually a 1T1C(one transistor and one capacitor) structure. Writing process is accomplished by selecting bit line 1 and word line 2 thus pull up/down the voltage of capacitor 4. Firstly, data is stored by applying high voltage to both word line 2 and bit line 1. And then data is stored by applying a low voltage to the word line 2 and trapping the charge on the storage capacitor. Subsequently, the data is accessed by applying a high voltage to the wordline to make FET work in depletion mode, conduction bitline and capacitor, so that the voltage on the bit line 1 could be sensed. Then Word line or Bit line is turned to be Low Voltage Level to config next cell so that FET works in cut off mode and thus the voltage level is stored in capacitor 4. When the data is read, apply a high voltage on word line 2 and thus the charges in capacitor 4 is released and could be sensed in bit line 2.
@@ -36,11 +36,13 @@ Volatile memory means the storage device will lose its data once the power is cu
 #### Float Body Cell (FBC) Structure for 1T-DRAM
 
 Although the principle of 1T1C DRAM is relatively simple, the capacitor in it is not that simple, for it requires a relatively large capacity of charge in its scale (around 30 fF/cell). Anyone who has some knowledge about capacitor should aware that Farad is not a small unit, 10mF capacitor could be called as "Super Capacitor" and is huge for a normal sized PCB.
-![10F_SuperCapacitor](http://suo.im/6rfizX)
+
+<img style="display: block; margin: 0 auto;" src="http://suo.im/6rfizX" alt="" />
 *Figure 3.1 a 10 Farad Super Capacitor(in contrast to a quart coin)*
 
 It is not difficult to imagine how large it is for a 30fF Cap in a DRAM cell. To deal with this issue, some reseachers[2]-[10] create a 1T structure, or floating-body cell (FBC) for DRAM. The FBC structure is shown in *Figure 3.2*. It operates as follows: When excess holes exist in the floating-body and Vth lowers, the cell state can be regarded as “1”. On the other hand, when excess holes are swept out of the floating-body by a forward bias on the body–drain junction and Vth becomes higher, the cell state can be regarded as “0”. The drain-current difference between “1” and “0” states can be sensed in the linear current region so as not to change the number of holes by the II current[2], which is an impact-ionization current used in wrting process.
-![SBC](https://s1.ax1x.com/2020/04/21/JGFuvQ.png)
+
+<img style="display: block; margin: 0 auto;" src="https://s1.ax1x.com/2020/04/21/JGFuvQ.png" alt="" />
 *Figure 3.2 1T Structure of DRAM*
 
 In contrast to 1T1C DRAM cells, the writing process with GIDL current consume lower by four orders of magnitude of power and a write speed within several nanoseconds. According to its data, Power consumption for writing "1" could be as low as $2.4 \times 10^-8$ Watt [2]. Furthermore, the reading process is non-destructive. However, this novel method is not widely taken for it has fatal weakness: its writing process is heavily relied on II current and 1 and 0 states detected by current. This is not what we truly like in an operating device. Since millions of cells could produce a huge current what requires the impedance of the whole device must be extradentary low, which is unachievable. Moreover, threads of devices are not designed to drain current for it is designed with a high pull up resistor to increase its impedance so as to increase its capability of voltage detection. The 1T DRAM could not be compatible with most common device.
@@ -51,10 +53,7 @@ Non-volatile memory (NVM) means the storage device will not lose its data after 
 
 Non-volatile memory has been widely used in SRAM which is a high speed but large cell structure and Flash which is low speed but high density.
 
-
-
-![Fig3.3](https://s1.ax1x.com/2020/05/20/YoGcsf.jpg)
-
+<img style="display: block; margin: 0 auto;" src="https://s1.ax1x.com/2020/05/20/YoGcsf.jpg" alt="" />
 *Figure 3.3 Memory taxonomy from the 2013 ITRS Emerging Research Devices (ERD) chapter[12]*
 
 
