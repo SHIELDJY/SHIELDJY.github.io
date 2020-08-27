@@ -32,7 +32,7 @@ links:
   #   url: /mind
   - title: Friends
     url: /friends
-  - title: Open Source Projects
+  - title: Projects
     url: /projects
   - title: About
     url: /about/
@@ -48,10 +48,10 @@ links-light:
 github:
   username: shieldjy
   link: https://github.com/shieldjy
-# facebook:
-#   username: Xblero
-# twitter:
-#   username: _lvyi_
+facebook:
+  username: 李珈毅
+twitter:
+  username: PlusOne97
 # stackoverflow:
 #   link: https://stackoverflow.com/users/6233938/walterlv
 
