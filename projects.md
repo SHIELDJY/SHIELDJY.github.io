@@ -23,29 +23,15 @@ Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS c
 1. The car with 4 wheels is DC motor driven and powered by a set of 18650 battery. Direction control relies on the modeled steering gear, which has 6V driven voltage and is controlled by pulse width modulation wave(PWM). 
 
 2. The basic dimension of the car is $27cm \times 16.4cm \times 13.8cm$ .
-<img src="https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg" width = "50%" height = "50%" div align=center />
 
-<p align="center">
-  <img src="https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg" width="50%" height="50%">
-</p>
-
-<img align="center" width="50%" height="50%" src="https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg">
-
-<!-- <div style="text-align: center;">
-
- ![project_img_1](https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg)
-</div> -->
-
-<img style="display: block; margin: 0 auto;" src="https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg" alt="" />
-
+   <img style="display: block; margin: 0 auto;" src="https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg" alt="" />
    *Figure1 the "Smart Car" which is everything but smart*
 
 3. A NXP® K60™ Series MCU MK60FX512VLQ10 is used as main control unit. ARM® KEIL™ $\mu Vision5$ is used to program the MCU and debug the program.
 
 4. Four separated two-layer printed copper board (PCB)  is designed. One of the PCBs is used to stabilize, to rise or decrease voltage level and to supply power to each part of the cars. One another is used to magnify the signal received by the sensor, and one is used to connect both 5 sensors to magnifying part. The other PCB is used to drive the 2 DC Motors. Each PCB is connected by DuPont line and  cable lines to conduct signals. And 5mm copper lines are used to conduct current.
 
-   ![project_img_2](https://s1.ax1x.com/2020/06/03/tUwftf.jpg)
-
+   <img style="display: block; margin: 0 auto;" src="https://s1.ax1x.com/2020/06/03/tUwftf.jpg" alt="" />
    *Figure2 One of the Four PCBs (with Altium Designer)*
 
    ![project_img_3](assets/img/Projects/project_img_3.jpg)
