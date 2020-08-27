@@ -81,11 +81,7 @@ This contest requires us to use wujian100 SoC, an open source project developed 
    <img style="display: block; margin: 0 auto;" width="50%" height="50%" src="https://s1.ax1x.com/2020/08/26/dWL3z4.png" alt="" />
    *(a) Schematic of Self-made PCB*
    <img style="display: block; margin: 0 auto;" width="50%" height="50%" src="https://s1.ax1x.com/2020/08/26/dWLQiT.jpg" alt="" />
-   *(b) Picture of PCB*
-
-<center>
-   *Figure 5 Power Supply Circuit*
-</center>
+   *(b) Picture of PCB* *Figure 5 Power Supply Circuit*
 
 3. We have successfully synthesis, implement, and generate the bitstream file of wujian100 in Windows 10 environment with the help of Vivado 2018.3. wujian100 SoC is proved to be an low energy cost and a less complicated microcontroller due to its low utilization of logical gates. The output of the implementation is shown in Figure 6.
 
@@ -153,6 +149,11 @@ Shown as in Figure 6, the visual based SLAM Robot could achieve its localization
 
  Code has been made public in [VSlamDemo](https://github.com/DmitriZhao/ROS-Navigation-Demo) and now one of our fellow students, [DmitriZhao](https://github.com/DmitriZhao), is still working on this demo in order to run a virtual visual based SLAM for other projects.
 
+### Honors
+
+* 1st Award for National University Student Innovation and Entrepreneurship Training Program in Tongji University [2019.12]
+<img style="display: block; margin: 0 auto;" width="50%" height="50%" src="https://.gif" alt="" />
+*Figure 10 Award Certificate)*
 ---
 
 ## Coursework(Continuously Upating)

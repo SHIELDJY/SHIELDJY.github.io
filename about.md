@@ -28,7 +28,7 @@ Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi199
 ####    · LANGUAGE PROFICIENCY
 
 - TOEFL  : 98 [2018.5]
-- GER German : B2 [Expected in 2020.7]
+- German : B2
 
 ---
 
@@ -43,33 +43,35 @@ Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi199
 
 - Mapping Robot Based on Visual SLAM, leading researcher, National University Student Innovation and Entrepreneurship Training Program [2018.4 - 2019.4]
 
-#### HONOR
+#### HONOR&PRIZE
 
 - 2nd Prize for National College Smart Car Competition (East China) [2019.7]
 - 2nd Prize for National College Integrated Circuits Design Competition (East China) [2019.7]
-- Excellence of Honor for National University Student Innovation and Entrepreneurship Training Program [2019.12]
+- 1st Honor for National University Student Innovation and Entrepreneurship Training Program in Tongji University [2019.12]
+- 2nd Prize for National College Integrated Cirtuits Design Competition (National) [2020.8]
 - 2nd Prize for “Xiaoqingbei” Circuit Design Competition in Tongji University [2018.5]
 
 ---
 
 ![Skills](/static/posts/About_Skills.svg)
-** EMBEDDED SYSTEM DEVELOPMENT
 
-- Fluent in C programming for embedded systems, including STM32F1/4 and NXP K60 series.
+* EMBEDDED SYSTEM DEVELOPMENT
 
-** ANALOG & DIGITAL (Integrated) CIRCUIT DESIGN
+  - Fluent in C programming for embedded systems, including STM32F1/4 and NXP K60 series.
 
-- Fluent in simulation with NI Mutisim14 and circuit layout design with DXP Altium Designer.
-- Simulation with ModelSim and FPGA development with VIVADO.
+* ANALOG & DIGITAL (Integrated) CIRCUIT DESIGN
 
-** Latte Artist
+  - Fluent in simulation with NI Mutisim14
+  - Fluent in circuit layout design with DXP Altium Designer
+  - Fluent in FPGA development with VIVADO
+  - Simulation with ModelSim
 
+* Latte Artist
 
+    *Besides, I am capable of making brilliant Latte.*
 
-* Besides, I make brilliant Latte. 
+* Photographer
 
-** Photographer
-
-* Also, I have taken some awesome pictures.
+    *Also, I have taken some awesome pictures.*
 
 ![blank](/assets/img/placeholder.png)
