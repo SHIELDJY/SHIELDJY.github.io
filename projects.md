@@ -25,8 +25,8 @@ Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS c
 2. The basic dimension of the car is $27cm \times 16.4cm \times 13.8cm$ .
 <img src="https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg" width = "50%" height = "50%" div align=center />
 
-<p align="left">
-  <img width="50%" height="50%" src="https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg">
+<p align="center">
+  <img src="https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg" width="50%" height="50%">
 </p>
 
 <img align="center" width="50%" height="50%" src="https://s1.ax1x.com/2020/06/03/tUwWAP.md.jpg">
