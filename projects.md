@@ -4,6 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
+---
+
+<div id="toc"></div>
+
 ## Competitions
 
 ---
