@@ -34,8 +34,7 @@ Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS c
    <img style="display: block; margin: 0 auto;" src="https://s1.ax1x.com/2020/06/03/tUwftf.jpg" alt="" />
    *Figure2 One of the Four PCBs (with Altium Designer)*
 
-   ![project_img_3](assets/img/Projects/project_img_3.jpg)
-
+   <img style="display: block; margin: 0 auto;" src="assets/img/Projects/project_img_3.jpg" alt="" />
    *Figure3 Another of the Four PCBs (with Altium Designer)*
 
 5. Software in the MCU is self-written and has reached the goal it requires, i.e. self-running  on the closed track and accomplished 3 times of meetings which could been found in Repo [Project_Sonic](https://github.com/SHIELDJY/Project_Sonic).
@@ -68,8 +67,7 @@ This contest requires us to use wujian100 SoC, an open source project developed 
 
 1. As demonstrated in Figure 4 , we use 2 step motor in connection to achieve the motor function and an Organic Light Emitted Diode (OLED) display unit as an interface. As for the communication, we utilize the bluetooth module shown also in the figure so that it could link with computers and smart phones with bluetooth serial port.
 
-   ![Figure4_jixiaotai](https://s1.ax1x.com/2020/08/26/dWL1WF.jpg)
-
+   <img style="display: block; margin: 0 auto;" width="50%" height="50%" src="https://s1.ax1x.com/2020/08/26/dWL1WF.jpg" alt="" />
    *Figure 4 Outlook of the Device*
 
 2. The power supply circuit shown in Figure 5 is designed by ourselves, printed by the factory and soldiered on our own. And it works well during the experiment and the contest.
