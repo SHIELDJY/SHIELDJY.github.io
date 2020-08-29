@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Jiayi Li ![jiayi_pic](/assets/img/jiayi_pic.jpg){:height="50%" width="50%"}
 
-Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: lijiayi19971127@hotmail.com
+Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: [lijiayi19971127@hotmail.com](lijiayi19971127@hotmail.com)
 
 ---
 
