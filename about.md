@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Jiayi Li ![jiayi_pic](/assets/img/jiayi_pic.jpg){:height="50%" width="50%"}
 
-Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: [lijiayi19971127@hotmail.com](lijiayi19971127@hotmail.com)
+Tongji University, 201804, Shanghai / *Tel*:+8618547186052 / *Email*: <lijiayi19971127@hotmail.com>
 
 ---
 
@@ -48,7 +48,7 @@ Tongji University, 200092, Shanghai / *Tel*:+8618547186052 / *Email*: [lijiayi19
 - 2nd Prize for National College Smart Car Competition (East China) [2019.7]
 - 2nd Prize for National College Integrated Circuits Design Competition (East China) [2019.7]
 - 1st Honor for National University Student Innovation and Entrepreneurship Training Program in Tongji University [2019.12]
-- 2nd Prize for National College Integrated Cirtuits Design Competition (National) [2020.8]
+- 2nd Prize for National College Integrated Circuits Design Competition (National) [2020.8]
 - 2nd Prize for “Xiaoqingbei” Circuit Design Competition in Tongji University [2018.5]
 
 ---
