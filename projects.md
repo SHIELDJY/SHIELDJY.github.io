@@ -118,6 +118,12 @@ A  Integrated circuit amplifier based on Bipolar Junction Transistor (BJT) is de
 
 ---
 
+## Award Certificates
+
+<img style="display: block; margin: 0 auto;" width="50%" height="50%" src="https://s1.ax1x.com/2020/09/03/wCWLvQ.jpg" alt="" />
+
+---
+
 ## Government Funded Project
 
 ## Mapping Robot Based on Visual SLAM
@@ -156,12 +162,14 @@ Shown as in Figure 6, the visual based SLAM Robot could achieve its localization
 ### Honors
 
 * 1st Award for National University Student Innovation and Entrepreneurship Training Program in Tongji University [2019.12]
-<img style="display: block; margin: 0 auto;" width="50%" height="50%" src="https://.gif" alt="" />
-*Figure 10 Award Certificate)*
+
 ---
 
-## Coursework(Continuously Upating)
+<img style="display: block; margin: 0 auto;" width="50%" height="50%" src="https://.gif" alt="" />
+*Figure 10 Award Certificate*
+
+<!-- ## Coursework(Continuously Upating)
 
 ## A Sample Crossing with Traffic Tight(in 1:250 Scale)
 
-### Brief
+### Brief -->
