@@ -31,15 +31,18 @@ Chosen Pictures from Year 2019.
 
 *Photoed by Jiayi in Tongji University, Shanghai*
 
+
 ![blank](/assets/img/placeholder.png)
 
 ![王国](https://s1.ax1x.com/2020/09/05/wEKOtx.jpg)
+
 
 *王国(WANG GUO)*
 
 *My Kindom*
 
 *Photoed by Jiayi in Angkor Wat, Seam Reap*
+
 
 ![blank](/assets/img/placeholder.png)
 
@@ -51,6 +54,7 @@ Chosen Pictures from Year 2019.
 
 *Photoed by Jiayi in Shanghai Contemporary Art Museum (Power Station Art Museum), Shanghai*
 
+
 ![blank](/assets/img/placeholder.png)
 
 ![滥竽充数](https://s1.ax1x.com/2020/09/05/wEKb7R.jpg)
@@ -60,6 +64,7 @@ Chosen Pictures from Year 2019.
 *Dross Depict of Rubbish*
 
 *Photoed by Jiayi in Tongji University, Shanghai*
+
 
 ![blank](/assets/img/placeholder.png)
 
@@ -71,54 +76,57 @@ Chosen Pictures from Year 2019.
 
 *Photoed by Jiayi in Tongji University, Shanghai*
 
+
 ![blank](/assets/img/placeholder.png)
 
-![谁是神](https://s1.ax1x.com/2020/09/05/wEK7nJ.jpg)
+![树](https://s1.ax1x.com/2020/09/05/wEK7nJ.jpg)
 
-*谁是神(SHUI SHI SHEN)*
+*树(SHU)*
 
-*Who are God*
+*Revival*
 
 *Photoed by Jiayi in Angkor Wat, Seam Reap*
 
 ![blank](/assets/img/placeholder.png)
 
-![wE3WSP.jpg](https://s1.ax1x.com/2020/09/05/wE3WSP.jpg)
+![暗](https://s1.ax1x.com/2020/09/05/wE3WSP.jpg)
 
-*谁是神(SHUI SHI SHEN)*
+*暗(AN)*
 
-*Who are God*
+*Hidden in Darkness*
 
 *Photoed by Jiayi in Angkor Wat, Seam Reap*
+
 
 ![blank](/assets/img/placeholder.png)
 
-![wE3gJI.jpg](https://s1.ax1x.com/2020/09/05/wE3gJI.jpg)
+![眼](https://s1.ax1x.com/2020/09/05/wE3gJI.jpg)
 
-*谁是神(SHUI SHI SHEN)*
+*眼(YAN)*
 
-*Who are God*
+*Glim*
 
-*Photoed by Jiayi in Angkor Wat, Seam Reap*
+*Photoed by Jiayi in Go Global School, Seam Reap*
+
 
 ![blank](/assets/img/placeholder.png)
 
-![wE32Wt.jpg](https://s1.ax1x.com/2020/09/05/wE32Wt.jpg)
+![午后](https://s1.ax1x.com/2020/09/05/wE32Wt.jpg)
 
-*谁是神(SHUI SHI SHEN)*
+*午后(WU HOU)*
 
-*Who are God*
+*Tranquil Town*
 
-*Photoed by Jiayi in Angkor Wat, Seam Reap*
+*Photoed by Jiayi in Reverside Hotel, Seam Reap*
 
 
 ![blank](/assets/img/placeholder.png)
 
 ![wE3sdH.jpg](https://s1.ax1x.com/2020/09/05/wE3sdH.jpg)
 
-*谁是神(SHUI SHI SHEN)*
+*废墟(FEI XU)*
 
-*Who are God*
+*NOT A Relic*
 
 *Photoed by Jiayi in Angkor Wat, Seam Reap*
 
@@ -126,11 +134,11 @@ Chosen Pictures from Year 2019.
 
 ![wE3yod.jpg](https://s1.ax1x.com/2020/09/05/wE3yod.jpg)
 
-*谁是神(SHUI SHI SHEN)*
+*沟通(GOU TONG)*
 
-*Who are God*
+*With Smile*
 
-*Photoed by Jiayi in Angkor Wat, Seam Reap*
+*Photoed by Jiayi in Go Global School, Seam Reap*
 
 ![blank](/assets/img/placeholder.png)
 
