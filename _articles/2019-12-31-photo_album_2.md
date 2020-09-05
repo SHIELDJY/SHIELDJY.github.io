@@ -1,5 +1,5 @@
 ---
-title: "2019年末精选"
+title: "2019年精选"
 date: 2019-12-31 23:59:59
 categories: xinran
 position: blog
@@ -81,6 +81,71 @@ Chosen Pictures from Year 2019.
 
 *Photoed by Jiayi in Angkor Wat, Seam Reap*
 
+![blank](/assets/img/placeholder.png)
+
+![wE3WSP.jpg](https://s1.ax1x.com/2020/09/05/wE3WSP.jpg)
+
+*谁是神(SHUI SHI SHEN)*
+
+*Who are God*
+
+*Photoed by Jiayi in Angkor Wat, Seam Reap*
+
+![blank](/assets/img/placeholder.png)
+
+![wE3gJI.jpg](https://s1.ax1x.com/2020/09/05/wE3gJI.jpg)
+
+*谁是神(SHUI SHI SHEN)*
+
+*Who are God*
+
+*Photoed by Jiayi in Angkor Wat, Seam Reap*
+
+![blank](/assets/img/placeholder.png)
+
+![wE32Wt.jpg](https://s1.ax1x.com/2020/09/05/wE32Wt.jpg)
+
+*谁是神(SHUI SHI SHEN)*
+
+*Who are God*
+
+*Photoed by Jiayi in Angkor Wat, Seam Reap*
+
+
+![blank](/assets/img/placeholder.png)
+
+![wE3sdH.jpg](https://s1.ax1x.com/2020/09/05/wE3sdH.jpg)
+
+*谁是神(SHUI SHI SHEN)*
+
+*Who are God*
+
+*Photoed by Jiayi in Angkor Wat, Seam Reap*
+
+![blank](/assets/img/placeholder.png)
+
+![wE3yod.jpg](https://s1.ax1x.com/2020/09/05/wE3yod.jpg)
+
+*谁是神(SHUI SHI SHEN)*
+
+*Who are God*
+
+*Photoed by Jiayi in Angkor Wat, Seam Reap*
+
+![blank](/assets/img/placeholder.png)
+
+![wE3cFA.jpg](https://s1.ax1x.com/2020/09/05/wE3cFA.jpg)
+
+*谁是神(SHUI SHI SHEN)*
+
+*Who are God*
+
+*Photoed by Jiayi in Angkor Wat, Seam Reap*
+
 ---
 
-*It is NOT allowed to copy and redistribute the pictures IN THIS PAGE in ANY medium or format as well as remix, transform, and build upon these materials. Thanks for your appreciation.*
+*It is **NOT** allowed to copy and redistribute the pictures IN THIS PAGE in ANY medium or format as well as remix, transform, and build upon these materials. Thanks for your appreciation.*
+
+本页面的所有内容**不允许**以任何媒介或格式**拷贝与再分发**，也**不允许**在这些内容上**混合、更改与创作**。谢谢配合。
+
+![blank](/assets/img/placeholder.png)
