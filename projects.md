@@ -12,7 +12,7 @@ permalink: /projects/
 
 ---
 
-## National College Smart Car Competition
+### National College Smart Car Competition
 
 ---
 
@@ -20,11 +20,11 @@ permalink: /projects/
 
 *8 Jun, 2019 - 25 Jul, 2020*
 
-### Brief: 
+#### Brief
 
 Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS camera running on a closed track with a 100 mA in 20Hz AC current  under the lane is accomplished. Besides, the cars are required to finish 3 times of meeting on the 50 cm wide track.
 
-### Description:
+#### Description
 
 (The two cars are basically identical except for some tiny errors caused by hand-made process.  Hence unless otherwise specified, the following descriptions are for both cars)
 
@@ -47,33 +47,33 @@ Two self-controlled DIY cars with 5 electromagnetic sensors and one 8-bit CMOS c
 
 5. Software in the MCU is self-written and has reached the goal it requires, i.e. self-running  on the closed track and accomplished 3 times of meetings which could been found in Repo [Project_Sonic](https://github.com/SHIELDJY/Project_Sonic).
 
-### DEMO
+#### DEMO
 
 <iframe width="560" height="420" src="https://www.youtube.com/embed/rZKlflG4iRU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
 *This is Demo video for our progress in National College Smart Car Competition. Two cars meeting each other and a turnaround action have been accoplished. (recorded after a sleepless long night)*
 
-### Honor
+#### Honor
 
 * 3rd Place (East China) in 2018
 * 2nd Place (East China) in 2019
 
 ---
 
-## National Integrated Circuit Innovation and Entrepreneurship Competition
+### National Integrated Circuit Innovation and Entrepreneurship Competition
 
 ---
 
-## T-Head(Alibaba Group) Cup
+### T-Head(Alibaba Group) Cup
 
 *15 May, 2020 - 23 Aug, 2020*
 
-### Brief
+#### Brief
 
 This contest requires us to use wujian100 SoC, an open source project developed by Ali Inc. team t-head, and a FPGA develop board with Xlinx XC7A200TR3B Core to manipulate one or several step motors so as to make the best of wujian100 SoC. So, finally we built a yuntai or in another word, a holder in combination of one 57 series step motor and one 47 series step motor with several self-made printed copper boards(PCB) and an inertial measurement unit(IMU), which, to be explicitly, is a 9-axis accelerator sensor.
 
-### Description
+#### Description
 
 1. As demonstrated in Figure 4 , we use 2 step motor in connection to achieve the motor function and an Organic Light Emitted Diode (OLED) display unit as an interface. As for the communication, we utilize the bluetooth module shown also in the figure so that it could link with computers and smart phones with bluetooth serial port.
 
@@ -97,28 +97,28 @@ This contest requires us to use wujian100 SoC, an open source project developed 
 <iframe width="560" height="420" src="https://www.youtube.com/embed/myroYvsGyDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
-### Honor
+#### Honor
 
 * 2nd Place (National) in 2020
 
 ---
 
-## NI Cup
+### NI Cup
 
 *3 Apr, 2019 - 20 Aug, 2019*
 
-### Brief
+#### Brief
 
 A  Integrated circuit amplifier based on Bipolar Junction Transistor (BJT) is designed with NI® Multisim™ 14. Several technical index are satisfied, i.e. Input offset voltage, offset current, input bias current$I_b$, common mode rejection ratio (CMRR), power supply rejection ratio (PSRR), open-loop voltage gain $G_{ov}$, open-loop bandwidth $f_{Bw}$ output voltage amplitude $V_{opp}$ and slew rate(SR).
 
-### Honor
+#### Honor
 
 * 2nd Place (East China) on Jul, 2019
 * Honor of Excellence (National) on Aug, 2019
 
 ---
 
-## Award Certificates
+### Award Certificates
 
 <img style="display: block; margin: 0 auto;" width="50%" height="50%" src="https://s1.ax1x.com/2020/09/03/wCWLvQ.jpg" alt="" />
 
@@ -126,24 +126,24 @@ A  Integrated circuit amplifier based on Bipolar Junction Transistor (BJT) is de
 
 ## Government Funded Project
 
-## Mapping Robot Based on Visual SLAM
+### Mapping Robot Based on Visual SLAM
 
 *12 Apr, 2018 - 20 Apr, 2019*
 
 *Funded by Ministry of Education of PRC*
 
-### Brief
+#### Brief
 
 A Visual Simutaneous Localization and Mapping (v-SLAM) Robot, Jixiaohei（济小黑）(Figure 4)is designed and built to guide the Blinds who have trouble to see what is going on in the surroundings, since in China the construction of barrier-free facilities is generally lagging behind the other countries and there are few ways to make those have problem to see to walk around without professional assistants.
 
-### Description
+#### Description
 
 A Lidar-based SLAM robot is built formerly by  fellow students, called Jixiaobai (济小白)(Figure 5), to provide a moblie  beverage stand. However, a binocular visual based SLAM robot is built with a $Intel NUC_{TM}$ as processing unit, STM32F108C3T6 in $STMicro$ STM32 Family as controlling unit, two DC Motors as powering and steering unit, a Binocular camera used as visual sensor. The goal of simutaneously localization and mapping is accomplished, however, due to the irreversive PCB damage and the end of funding period, the demo is limited with a few clips of the process.
 
    <img style="display: block; margin: 0 auto;" width="50%" height="50%" src="https://s1.ax1x.com/2020/06/03/tUw59S.jpg" alt="" />
    *Figure 7 Jixiaohei(Visual based SLAM Robot)*
 
-### DEMOs
+#### DEMOs
 
 Shown as in Figure 5, a Lidar based SLAM Robot could achieve its simutaneous localization and could accomplish its human detection to prevent some unpredictable dangers.
 
@@ -159,7 +159,7 @@ Shown as in Figure 6, the visual based SLAM Robot could achieve its localization
 
  Code has been made public in [VSlamDemo](https://github.com/DmitriZhao/ROS-Navigation-Demo) and now one of our fellow students, [DmitriZhao](https://github.com/DmitriZhao), is still working on this demo in order to run a virtual visual based SLAM for other projects.
 
-### Honors
+#### Honors
 
 * 1st Award for National University Student Innovation and Entrepreneurship Training Program in Tongji University [2019.12]
 
