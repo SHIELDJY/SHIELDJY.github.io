@@ -76,10 +76,20 @@ Chosen Pictures from Year 2019.
 
 *Photoed by Jiayi in Tongji University, Shanghai*
 
+![blank](/assets/img/placeholder.png)
+
+![谁是神](https://s1.ax1x.com/2020/09/05/wEK7nJ.jpg)
+
+*谁是神(SHUI SHI SHEN)*
+
+*Who are God*
+
+*Photoed by Jiayi in Angkor Wat, Seam Reap*
+
 
 ![blank](/assets/img/placeholder.png)
 
-![树](https://s1.ax1x.com/2020/09/05/wEK7nJ.jpg)
+![树](https://s1.ax1x.com/2020/09/05/wE3WSP.jpg)
 
 *树(SHU)*
 
@@ -89,7 +99,7 @@ Chosen Pictures from Year 2019.
 
 ![blank](/assets/img/placeholder.png)
 
-![暗](https://s1.ax1x.com/2020/09/05/wE3WSP.jpg)
+![暗](https://s1.ax1x.com/2020/09/05/wE3gJI.jpg)
 
 *暗(AN)*
 
@@ -97,10 +107,9 @@ Chosen Pictures from Year 2019.
 
 *Photoed by Jiayi in Angkor Wat, Seam Reap*
 
-
 ![blank](/assets/img/placeholder.png)
 
-![眼](https://s1.ax1x.com/2020/09/05/wE3gJI.jpg)
+![眼](https://s1.ax1x.com/2020/09/05/wE32Wt.jpg)
 
 *眼(YAN)*
 
@@ -108,10 +117,9 @@ Chosen Pictures from Year 2019.
 
 *Photoed by Jiayi in Go Global School, Seam Reap*
 
-
 ![blank](/assets/img/placeholder.png)
 
-![午后](https://s1.ax1x.com/2020/09/05/wE32Wt.jpg)
+![午后](https://s1.ax1x.com/2020/09/05/wE3sdH.jpg)
 
 *午后(WU HOU)*
 
@@ -119,10 +127,9 @@ Chosen Pictures from Year 2019.
 
 *Photoed by Jiayi in Reverside Hotel, Seam Reap*
 
-
 ![blank](/assets/img/placeholder.png)
 
-![wE3sdH.jpg](https://s1.ax1x.com/2020/09/05/wE3sdH.jpg)
+![废墟](https://s1.ax1x.com/2020/09/05/wE3yod.jpg)
 
 *废墟(FEI XU)*
 
@@ -132,23 +139,13 @@ Chosen Pictures from Year 2019.
 
 ![blank](/assets/img/placeholder.png)
 
-![wE3yod.jpg](https://s1.ax1x.com/2020/09/05/wE3yod.jpg)
+![沟通](https://s1.ax1x.com/2020/09/05/wE3cFA.jpg)
 
 *沟通(GOU TONG)*
 
 *With Smile*
 
 *Photoed by Jiayi in Go Global School, Seam Reap*
-
-![blank](/assets/img/placeholder.png)
-
-![wE3cFA.jpg](https://s1.ax1x.com/2020/09/05/wE3cFA.jpg)
-
-*谁是神(SHUI SHI SHEN)*
-
-*Who are God*
-
-*Photoed by Jiayi in Angkor Wat, Seam Reap*
 
 ---
 
