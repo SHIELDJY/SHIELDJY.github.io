@@ -51,6 +51,8 @@ Tongji University, 201804, Shanghai / *Tel*:+8618547186052 / *Email*: <lijiayi19
 - 2nd Prize for National College Integrated Circuits Design Competition (National) [2020.8]
 - 2nd Prize for “Xiaoqingbei” Circuit Design Competition in Tongji University [2018.5]
 
+*Details refer to [projects](https://shieldjy.github.io/projects/)*
+
 ---
 
 ![Skills](/static/posts/About_Skills.svg)
@@ -73,5 +75,7 @@ Tongji University, 201804, Shanghai / *Tel*:+8618547186052 / *Email*: <lijiayi19
 * Photographer
 
     *Also, I have taken some awesome pictures.*
+
+    *Details refer to [AlbumOne](https://shieldjy.github.io/article/photo_album_1.html)*
 
 ![blank](/assets/img/placeholder.png)
