@@ -57,7 +57,7 @@ This tutorial is for those who utilize vivado to generate bitstream file and CDK
 
 * For Part 8 Interrupt please refer to [Part8_VIC](https://shieldjy.github.io/post/FPGA-Development-with-WJ100-SoC-P8.html)
 
-* For Part 9 Working on Bugs please refer to [Part9_BUGs](https://shieldjy.github.io/post/FPGA-Development-with-WJ100-SoC.html)
+* For Part 9 Working on Bugs please refer to [Part9_BUGs](https://shieldjy.github.io/post/FPGA-Development-with-WJ100-SoC-P9.html)
 
 ---
 
