@@ -43,7 +43,7 @@ Chosen Pictures from Year 2019.
 
 ![blank](/assets/img/placeholder.png)
 
-![你？我](https://s1.ax1x.com/2020/09/05/wEKLA1.jpg)
+ <img style="display: block; margin: 0 auto;" width="50%" height="50%" src="https://s1.ax1x.com/2020/09/05/wEKLA1.jpg" alt="你？我" />
 
 *你？我。(NI? WO.)*
 
