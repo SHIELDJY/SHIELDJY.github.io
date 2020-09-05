@@ -27,7 +27,7 @@ Chosen Pictures from Year 2019.
 
 *关于潮湿关于我爱你(GUAN YU CHAO SHI GUAN YU WO AI NI)*
 
-*I Can See You from Other Couples*
+*I Can See US from Other Couples*
 
 *Photoed by Jiayi in Tongji University, Shanghai*
 
@@ -57,7 +57,7 @@ Chosen Pictures from Year 2019.
 
 *滥竽充数(LAN YU CHONG SHU)*
 
-*Dross Depict Rubbish*
+*Dross Depict of Rubbish*
 
 *Photoed by Jiayi in Tongji University, Shanghai*
 
@@ -65,7 +65,7 @@ Chosen Pictures from Year 2019.
 
 ![关于夏夜和夏雨所赋予嘉定的弥散于清晰](https://s1.ax1x.com/2020/09/05/wEKHB9.jpg)
 
-*关于夏夜和夏雨所赋予嘉定的弥散与清晰(GUAN YU XIA YE HE XIA YU SUO FU YU JIA DING DE MISAN YU QINGXI)*
+*关于夏夜和夏雨所赋予嘉定的弥散与清晰(GUAN YU XIAYE HE XIAYU SUO FU YU JIA DING DE MISAN YU QINGXI)*
 
 *How Could I Simply Go Away*
 
