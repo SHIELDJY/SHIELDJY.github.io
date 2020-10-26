@@ -27,7 +27,7 @@ Tongji University, 201804, Shanghai / *Tel*:+8618547186052 / *Email*: <lijiayi19
 
 ####    · LANGUAGE PROFICIENCY
 
-- TOEFL  : 98 [2018.5]
+- TOEFL  : 102 [2020.8]
 - German : B2
 
 ---
