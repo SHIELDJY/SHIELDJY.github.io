@@ -23,7 +23,7 @@ Tongji University, 201804, Shanghai / *Tel*:+8618547186052 / *Email*: <lijiayi19
 ####    · EXCHANGE STUDENT / 2018.9-2019.1 / NATIONAL CHIAO-TUNG UNIVERSITY, TAIWAN
 
 - Major  : Electronics
-- GPA  : 4.0/4.0
+- GPA  : 4.1/4.3
 
 ####    · LANGUAGE PROFICIENCY
 
