@@ -54,6 +54,21 @@ Tongji University, 201804, Shanghai / *Tel*:+8618547186052 / *Email*: <lijiayi19
 *Details refer to [projects](https://shieldjy.github.io/projects/)*
 
 ---
+![Lab](/static/posts/About_Labex.svg)
+
+#### Organic Ferroelectric Material Lab
+
+- Supervisor: Prof. Jun, Li, Prof. Ouyang, Wei
+- Research Area: Organic Ferroelectric materials, mainly P(VDF-TrFE).
+- Publications:[Done little work but not listed as a contributor] Wu, Qiang, et al. "A feasible heterostructure of P (VDF-TrFE)/semiconductor for a stable multi-state memory." Organic Electronics 77 (2020): 105491.
+
+#### Tongji Smart Car Lab
+
+- Supervisor: Dr. Zhiming, Zhang
+- Research Area: Circuit Design
+- Publications:[Not yet Published] Li, Weibo, et al. "Computer based automatic measure experiment of integrated operational amplifier comprehensive parameters"
+
+---
 
 ![Skills](/static/posts/About_Skills.svg)
 
