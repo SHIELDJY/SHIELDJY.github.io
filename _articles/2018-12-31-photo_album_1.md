@@ -29,7 +29,7 @@ Chosen Pictures from Year 2018.
 
 *Alive Burden*
 
-*Photoed by Jiayi in Shanghai Contemperary Art Museum(Power Station Art Museum), Shanghai*
+*Photoed by Jiayi at Shanghai Contemperary Art Museum(Power Station Art Museum), Shanghai*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -39,7 +39,7 @@ Chosen Pictures from Year 2018.
 
 *Shadow*
 
-*Photoed by Jiayi in Suzhou Museum, Suzhou*
+*Photoed by Jiayi at Suzhou Museum, Suzhou*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -59,7 +59,7 @@ Chosen Pictures from Year 2018.
 
 *Sunset in Wind City*
 
-*Photoed by Jiayi in Nanliao Habor, Hsinchu*
+*Photoed by Jiayi at Nanliao Habor, Hsinchu*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -69,7 +69,7 @@ Chosen Pictures from Year 2018.
 
 *Grand, Dad, Son*
 
-*Photoed by Jiayi in Suzhou Museum, Suzhou*
+*Photoed by Jiayi at Suzhou Museum, Suzhou*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -89,7 +89,7 @@ Chosen Pictures from Year 2018.
 
 *Centuries*
 
-*Photoed by Jiayi in Yuyuan Garden, Shanghai*
+*Photoed by Jiayi at Yuyuan Garden, Shanghai*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -99,7 +99,7 @@ Chosen Pictures from Year 2018.
 
 *Utopia*
 
-*Photoed by Jiayi in Tongluo Station, Miaoli*
+*Photoed by Jiayi at Tongluo Station, Miaoli*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -109,7 +109,7 @@ Chosen Pictures from Year 2018.
 
 *Accompany by Lakeside*
 
-*Photoed by Jiayi in Xihu Lake(West Lake), Hangzhou*
+*Photoed by Jiayi by Xihu Lake(West Lake), Hangzhou*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -133,4 +133,8 @@ Chosen Pictures from Year 2018.
 
 ---
 
-*It is NOT allowed to copy and redistribute the pictures IN THIS PAGE in ANY medium or format as well as remix, transform, and build upon these materials. Thanks for your appreciation.*
+*It is **NOT** allowed to copy and redistribute the pictures IN THIS PAGE in ANY medium or format as well as remix, transform, and build upon these materials. Thanks for your appreciation.*
+
+本页面的所有内容**不允许**以任何媒介或格式**拷贝与再分发**，也**不允许**在这些内容上**混合、更改与创作**。谢谢!
+
+![blank](/assets/img/placeholder.png)

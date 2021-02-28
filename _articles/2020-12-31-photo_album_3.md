@@ -1,6 +1,6 @@
 ---
-title: "2019年精选"
-date: 2019-12-31 23:59:59
+title: "2020年精选"
+date: 2020-12-31 23:59:59
 categories: xinran
 position: blog
 layout: xinran
@@ -23,58 +23,57 @@ Chosen Pictures from Year 2019.
 
 ![blank](/assets/img/placeholder.png)
 
-![关于潮湿关于我爱你](https://s1.ax1x.com/2020/09/05/wEKXh6.jpg)
+![夏径](https://s3.ax1x.com/2021/02/28/69lpR0.md.jpg)
 
-*关于潮湿关于我爱你(GUAN YU CHAO SHI GUAN YU WO AI NI)*
+*夏径(XIA JING)*
 
-*I Can See US from Other Couples*
+*Summer Path*
 
-*Photoed by Jiayi at Tongji University, Shanghai*
-
-
-![blank](/assets/img/placeholder.png)
-
-![王国](https://s1.ax1x.com/2020/09/05/wEKOtx.jpg)
-
-
-*王国(WANG GUO)*
-
-*My Kindom*
-
-*Photoed by Jiayi at Angkor Wat, Seam Reap*
+*Photoed by Jiayi on Mount Daqing Shan, Hohhot*
 
 
 ![blank](/assets/img/placeholder.png)
 
- <img style="display: block; margin: 0 auto;" width="50%" height="50%" src="https://s1.ax1x.com/2020/09/05/wEKLA1.jpg" alt="你？我" />
+![雪原](https://s3.ax1x.com/2021/02/28/69lSGq.md.jpg)
 
-*你？我。(NI? WO.)*
+*雪原(XUE YUAN)*
 
-*Who Am I*
+*Winter Mountain*
 
-*Photoed by Jiayi at Shanghai Contemporary Art Museum (Power Station Art Museum), Shanghai*
-
-
-![blank](/assets/img/placeholder.png)
-
-![滥竽充数](https://s1.ax1x.com/2020/09/05/wEKb7R.jpg)
-
-*滥竽充数(LAN YU CHONG SHU)*
-
-*Dross Depict of Rubbish*
-
-*Photoed by Jiayi at Tongji University, Shanghai*
+*Photoed by Jiayi on the Flight back home, Nei Mongol*
 
 
 ![blank](/assets/img/placeholder.png)
 
-![关于夏夜和夏雨所赋予嘉定的弥散于清晰](https://s1.ax1x.com/2020/09/05/wEKHB9.jpg)
+![春树](https://s3.ax1x.com/2021/02/28/69Q7xf.md.jpg)
 
-*关于夏夜和夏雨所赋予嘉定的弥散与清晰(GUAN YU XIAYE HE XIAYU SUO FU YU JIA DING DE MISAN YU QINGXI)*
+*春树(CHUN SHU)*
 
-*How Could I Simply Go Away*
+*Spring Tree*
 
-*Photoed by Jiayi at Tongji University, Shanghai*
+*Photoed by Jiayi at Dajialai Village, Hohhot*
+
+
+![blank](/assets/img/placeholder.png)
+
+![冬夜](https://s3.ax1x.com/2021/02/28/69QLqg.md.jpg)
+
+*冬夜(DONG YE)*
+
+*Time Stop at the Winter Night*
+
+*Photoed by Jiayi at a roadacross, Hohhot*
+
+
+![blank](/assets/img/placeholder.png)
+
+![隔离](https://s3.ax1x.com/2021/02/28/69QTRP.md.jpg)
+
+*隔离(GE LI)*
+
+*Feeling Through Window*
+
+*Photoed by Jiayi at home, Hohhot*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -84,7 +83,7 @@ Chosen Pictures from Year 2019.
 
 *Who are God*
 
-*Photoed by Jiayi at Angkor Wat, Seam Reap*
+*Photoed by Jiayi in Angkor Wat, Seam Reap*
 
 
 ![blank](/assets/img/placeholder.png)
@@ -95,7 +94,7 @@ Chosen Pictures from Year 2019.
 
 *Revival*
 
-*Photoed by Jiayi at Angkor Wat, Seam Reap*
+*Photoed by Jiayi in Angkor Wat, Seam Reap*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -105,7 +104,7 @@ Chosen Pictures from Year 2019.
 
 *Hidden in Darkness*
 
-*Photoed by Jiayi at Angkor Wat, Seam Reap*
+*Photoed by Jiayi in Angkor Wat, Seam Reap*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -115,7 +114,7 @@ Chosen Pictures from Year 2019.
 
 *Glim*
 
-*Photoed by Jiayi at Go Global School, Seam Reap*
+*Photoed by Jiayi in Go Global School, Seam Reap*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -125,7 +124,7 @@ Chosen Pictures from Year 2019.
 
 *Tranquil Town*
 
-*Photoed by Jiayi at Reverside Hotel, Seam Reap*
+*Photoed by Jiayi in Reverside Hotel, Seam Reap*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -135,7 +134,7 @@ Chosen Pictures from Year 2019.
 
 *NOT A Relic*
 
-*Photoed by Jiayi at Angkor Wat, Seam Reap*
+*Photoed by Jiayi in Angkor Wat, Seam Reap*
 
 ![blank](/assets/img/placeholder.png)
 
@@ -145,12 +144,12 @@ Chosen Pictures from Year 2019.
 
 *With Smile*
 
-*Photoed by Jiayi at Go Global School, Seam Reap*
+*Photoed by Jiayi in Go Global School, Seam Reap*
 
 ---
 
 *It is **NOT** allowed to copy and redistribute the pictures IN THIS PAGE in ANY medium or format as well as remix, transform, and build upon these materials. Thanks for your appreciation.*
 
-本页面的所有内容**不允许**以任何媒介或格式**拷贝与再分发**，也**不允许**在这些内容上**混合、更改与创作**。谢谢!
+本页面的所有内容**不允许**以任何媒介或格式**拷贝与再分发**，也**不允许**在这些内容上**混合、更改与创作**。谢谢！
 
 ![blank](/assets/img/placeholder.png)
