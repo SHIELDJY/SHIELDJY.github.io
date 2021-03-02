@@ -77,74 +77,93 @@ Chosen Pictures from Year 2019.
 
 ![blank](/assets/img/placeholder.png)
 
-![谁是神](https://s1.ax1x.com/2020/09/05/wEK7nJ.jpg)
+![剪影](https://s3.ax1x.com/2021/02/28/69QvIs.md.jpg)
 
-*谁是神(SHUI SHI SHEN)*
+*剪影(JIAN YING)*
 
-*Who are God*
+*Shadows*
 
-*Photoed by Jiayi in Angkor Wat, Seam Reap*
-
-
-![blank](/assets/img/placeholder.png)
-
-![树](https://s1.ax1x.com/2020/09/05/wE3WSP.jpg)
-
-*树(SHU)*
-
-*Revival*
-
-*Photoed by Jiayi in Angkor Wat, Seam Reap*
+*Photoed by Jiayi at Home, Hohhot*
 
 ![blank](/assets/img/placeholder.png)
 
-![暗](https://s1.ax1x.com/2020/09/05/wE3gJI.jpg)
+![啸](https://s3.ax1x.com/2021/02/28/69QbM8.md.jpg)
 
-*暗(AN)*
+*啸(XIAO)*
 
-*Hidden in Darkness*
+*Corner of a Paint*
 
-*Photoed by Jiayi in Angkor Wat, Seam Reap*
-
-![blank](/assets/img/placeholder.png)
-
-![眼](https://s1.ax1x.com/2020/09/05/wE32Wt.jpg)
-
-*眼(YAN)*
-
-*Glim*
-
-*Photoed by Jiayi in Go Global School, Seam Reap*
+*Photoed by Jiayi at Zhejiang Art Museum, Hangzhou*
 
 ![blank](/assets/img/placeholder.png)
 
-![午后](https://s1.ax1x.com/2020/09/05/wE3sdH.jpg)
+![儿时](https://s3.ax1x.com/2021/02/28/69QqsS.md.jpg)
 
-*午后(WU HOU)*
+*儿时(ER SHI)*
 
-*Tranquil Town*
+*Back to the Childhood*
 
-*Photoed by Jiayi in Reverside Hotel, Seam Reap*
-
-![blank](/assets/img/placeholder.png)
-
-![废墟](https://s1.ax1x.com/2020/09/05/wE3yod.jpg)
-
-*废墟(FEI XU)*
-
-*NOT A Relic*
-
-*Photoed by Jiayi in Angkor Wat, Seam Reap*
+*Photoed by Jiayi at Sichouzhilu Park (Silkroad Park), Hohhot*
 
 ![blank](/assets/img/placeholder.png)
 
-![沟通](https://s1.ax1x.com/2020/09/05/wE3cFA.jpg)
+![当回到夏日](https://s3.ax1x.com/2021/02/28/69Q4IA.md.jpg)
 
-*沟通(GOU TONG)*
+*当回到夏日(DANG HUI DAO XIA RI)*
 
-*With Smile*
+*Back to that Summer*
 
-*Photoed by Jiayi in Go Global School, Seam Reap*
+*Photoed by Jiayi at Shengshuiliang Park, Hohhot*
+
+![blank](/assets/img/placeholder.png)
+
+![当举起相机](https://s3.ax1x.com/2021/02/28/69QoGt.md.jpg)
+
+*当举起相机(DANG JU QI XIANG JI)*
+
+*Back for Photography*
+
+*Photoed by Jiayi on the ferry, Shanghai*
+
+![blank](/assets/img/placeholder.png)
+
+![当望向展馆](https://s3.ax1x.com/2021/02/28/69Qhad.md.jpg)
+
+*当望向展馆(DANG WANG XIANG ZHAN GUAN)*
+
+*Back to the Museum*
+
+*Photoed by Jiayi at Liuhaisu Art Museum, Shanghai*
+
+![blank](/assets/img/placeholder.png)
+
+![当奔向婚礼](https://s3.ax1x.com/2021/02/28/69Qzin.md.jpg)
+
+*当奔向婚礼(DANG BEN XIANG HUN LI)*
+
+*Back to Wedding*
+
+*Photoed by Jiayi at Xihu Lake (West Lake), Hangzhou*
+
+![blank](/assets/img/placeholder.png)
+
+![当走马观花](https://s3.ax1x.com/2021/02/28/69QfVH.md.jpg)
+
+*当走马观花(DANG ZOU MA GUAN HUA)*
+
+*Back for Perfunctory*
+
+*Photoed by Jiayi at Xihu Lake (West Lake), Hangzhou*
+
+![blank](/assets/img/placeholder.png)
+
+![当冬济来临](https://s3.ax1x.com/2021/02/28/69QIPI.md.jpg)
+
+*当冬济来临(DANG DONG JI LAI LIN)*
+
+*Till the Winter Has Arrived*
+
+*Photoed by Jiayi at Tongji University, Shanghai*
 
 ---
 
