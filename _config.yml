@@ -81,6 +81,8 @@ paginate_path: "/blog/page:num/"
 collections:
   articles:
     output: true
+  nonsenses:
+  output: true
 defaults:
   - scope:
       path: "_posts"
