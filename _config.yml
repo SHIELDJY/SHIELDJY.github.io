@@ -82,7 +82,7 @@ collections:
   articles:
     output: true
   nonsenses:
-  output: true
+    output: true
 defaults:
   - scope:
       path: "_posts"
@@ -100,11 +100,11 @@ defaults:
       permalink: "/article/:title.html"
   - scope:
       path: "_nonsenses"
-      type: "articles"
+      type: "nonsenses"
     values:
       layout: "post"
       author: "Jiayi"
-      permalink: "/nonsenses/:title.html"
+      permalink: "/nonsense/:title.html"
   - scope:
       path: "_private"
       type: "private"
