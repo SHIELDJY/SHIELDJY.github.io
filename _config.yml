@@ -97,6 +97,13 @@ defaults:
       author: "Jiayi"
       permalink: "/article/:title.html"
   - scope:
+      path: "_nonsenses"
+      type: "articles"
+    values:
+      layout: "post"
+      author: "Jiayi"
+      permalink: "/nonsenses/:title.html"
+  - scope:
       path: "_private"
       type: "private"
     values:
