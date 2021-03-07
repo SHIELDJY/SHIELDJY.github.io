@@ -38,6 +38,8 @@ links:
     url: /projects
   - title: About
     url: /about/
+  - title: Nonsense
+    url: /nonsense/
 links-light:
   - icon: users
     title: FRIENDS
