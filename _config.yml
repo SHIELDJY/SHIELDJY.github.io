@@ -32,8 +32,8 @@ links:
     url: /
   # - title: Articles
   #   url: /mind
-  - title: Friends
-    url: /friends
+  # - title: Friends
+  #   url: /friends
   - title: Projects
     url: /projects
   - title: About
