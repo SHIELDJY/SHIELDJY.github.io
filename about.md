@@ -91,6 +91,6 @@ Tongji University, 201804, Shanghai / *Tel*:+8618547186052 / *Email*: <lijiayi19
 
     Also, I have taken some awesome pictures.
 
-    *Details refer to [AlbumOne](https://shieldjy.github.io/article/photo_album_1.html), [AlbumTwo](https://shieldjy.github.io/article/photo_album_2.html), and [AlbumThree](https://shieldjy.github.io/article/photo_album_3.html)*
+    *Details refer to [AlbumOne](https://shieldjy.github.io/nonsense/photo_album_1.html), [AlbumTwo](https://shieldjy.github.io/nonsense/photo_album_2.html), and [AlbumThree](https://shieldjy.github.io/nonsense/photo_album_3.html)*
 
 ![blank](/assets/img/placeholder.png)
