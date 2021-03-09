@@ -87,7 +87,7 @@ Jiayi 摄于苏州博物馆，苏州市
 
 ![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
 
-![20180512-_DSC1411](C:\Users\Jiayi Li\Desktop\Unclassified Pics\20180512-_DSC1411.jpg)
+![20180512-_DSC1411](https://i.loli.net/2021/03/09/VX3ijBvuRLrEOxw.jpg)
 
 *窗(Chuang)*, 2018年5月12日(12 MAY, 2018)
 
