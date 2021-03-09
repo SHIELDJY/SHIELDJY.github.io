@@ -7,9 +7,7 @@ position: blog
 layout: xinran
 ---
 
-Selected Pictures from Past Few Years.
-
-Update Randomly.
+Selected Pictures from Past Few Years. Update Randomly. 
 
 往年图片精选，随缘更新。
 
