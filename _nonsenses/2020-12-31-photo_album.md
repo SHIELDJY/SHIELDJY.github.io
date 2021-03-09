@@ -45,7 +45,7 @@ I heard this  song on October, 2020 and thought it was published then. I thought
 
 *Inside or Out*
 
-Jiayi 摄于行驶在苗栗县的区间车上
+Jiayi 摄于行駛在苗栗縣的區間車上
 
 *Photoed by Jiayi on a Train, Miaoli*
 
@@ -137,7 +137,7 @@ Jiayi 摄于观前街，苏州市
 
 ![20180512-DSC01542](https://i.loli.net/2021/03/09/9P36yBujlGqfb1N.jpg)
 
-桃花坞(Tao Hua Wu)*, 2018年5月12日(12 MAY, 2018)
+*桃花坞(Tao Hua Wu)*, 2018年5月12日(12 MAY, 2018)
 
 *The Arcadia Bus Stop*
 
@@ -149,7 +149,7 @@ Jiayi 摄于桃花坞公交站，苏州市
 
 ![20180512-DSC01542-2](https://i.loli.net/2021/03/09/xstMSayOpl9Pe7k.jpg)
 
-桃花坞(Tao Hua Wu)*, 2018年5月12日(12 MAY, 2018)
+*桃花坞(Tao Hua Wu)*, 2018年5月12日(12 MAY, 2018)
 
 *How Many Chances to Enconter Love*
 
