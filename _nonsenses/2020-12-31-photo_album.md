@@ -42,11 +42,31 @@ I heard this  song on October, 2020 and thought it was published then. I thought
 
 ![车厢内外](https://gitee.com/shieldgary/blogimage/raw/master/20181123-_DSC2091.jpg)
 
-*车厢内外(Che Xiang Nei Wai)*
+*车厢内外(Che Xiang Nei Wai)*, 2018年11月23日(23 Nov, 2018)
 
 *Inside or Out*
 
 *Photoed by Jiayi on a Train, Miaoli*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20180405-_DSC1336](https://gitee.com/shieldgary/blogimage/raw/master/20180405-_DSC1336.jpg)
+
+*可乐(Ke Le)*, 2018年4月5日(5 APR, 2018)
+
+*To Be Happy*
+
+*Photoed by Jiayi by Xihu Lake(West Lake), Hangzhou*
+
+
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+
+
+
+
+
 
 
 ![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
