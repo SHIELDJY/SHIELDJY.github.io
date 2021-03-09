@@ -24,9 +24,13 @@ Update Randomly.
 
 *平凡的一天 — 毛不易*
 
+*A Day* — Mao Buyi
+
 ![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
 
 这首歌是我在2020年10月听到的，本以为是歌手当年发布的作品，怀念病毒肆虐前的生活，却惊讶发现其发表与2017年。无论如何，希望藉由*平凡的一天*和本影集中平凡的一天天给你带来对恢复平凡生活的向往和渴望。——Jiayi
+
+I heard this  song on October, 2020 and thought it was published then. I thought the lyric was about revoking people's memory of days before Covid-19. But the fact is, it was released in the year of 2017 and meant nothing about revoking, which actually makes it much more precious. Anyhow, this is also what I want to express with my album. Please cheer yourself up and be eager for going back to the life before.
 
 ![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
 
