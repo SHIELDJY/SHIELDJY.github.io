@@ -1,26 +1,38 @@
 ---
-title: "2020年精选"
-date: 2020-12-31 23:59:59
+title: "精选"
+date: 2021-03-09 23:59:59
 categories: xinran
 position: blog
 layout: xinran
 ---
 
-Chosen Pictures from Year 2020.
+Selected Pictures from Past Few Years.
+
+Update Randomly.
+
+往年图片精选，随缘更新。
 
 ---
 
 <ul class="list-inline text-center">
 <audio controls="controls">
-    <source src="http://music.163.com/song/media/outer/url?id=1373002687.mp3" type="audio/ogg">
-    <source src="http://music.163.com/song/media/outer/url?id=1373002687.mp3" type="audio/mpeg">
-<embed height="50" width="1500" src="http://music.163.com/song/media/outer/url?id=1373002687.mp3" />
+    <source src="http://music.163.com/song/media/outer/url?id=569214247.mp3" type="audio/ogg">
+    <source src="http://music.163.com/song/media/outer/url?id=569214247.mp3" type="audio/mpeg">
+<embed height="50" width="1500" src="http://music.163.com/song/media/outer/url?id=569214247.mp3" />
 </audio>
 </ul>
 
-*Twilight Rush(暮色狂奔）— 结冰水*
+*平凡的一天 — 毛不易*
 
-*ich bin a decent song. Plz take your time and listen to me~~*
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+这首歌是我在2020年10月听到的，本以为是歌手当年发布的作品，怀念病毒肆虐前的生活，却惊讶发现其发表与2017年。无论如何，希望藉由*平凡的一天*和本影集中平凡的一天天给你带来对恢复平凡生活的向往和渴望。——Jiayi
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+---
+
+
 
 ![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
 
