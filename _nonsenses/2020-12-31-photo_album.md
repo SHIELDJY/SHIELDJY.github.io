@@ -1,4 +1,5 @@
 ---
+
 title: "精选"
 date: 2021-03-09 23:59:59
 categories: xinran
@@ -46,24 +47,143 @@ I heard this  song on October, 2020 and thought it was published then. I thought
 
 *Inside or Out*
 
+Jiayi 摄于行驶在苗栗县的区间车上
+
 *Photoed by Jiayi on a Train, Miaoli*
 
 ![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
 
-![20180405-_DSC1336](https://gitee.com/shieldgary/blogimage/raw/master/20180405-_DSC1336.jpg)
+![可乐](https://i.loli.net/2021/03/09/KC2TyYxnbZGjdve.jpg)
 
 *可乐(Ke Le)*, 2018年4月5日(5 APR, 2018)
 
 *To Be Happy*
 
+Jiayi 摄于西湖景区，杭州市
+
 *Photoed by Jiayi by Xihu Lake(West Lake), Hangzhou*
-
-
 
 ![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
 
+![20180512-_DSC1375](https://i.loli.net/2021/03/09/rMevqAi3VpsSFUG.jpg)
 
+*福装店(Fu Zhuang Dian)*, 2018年5月12日(12 MAY, 2018)
 
+*Costume Shop*
+
+Jiayi 摄于观前街，苏州市
+
+*Photoed by Jiayi on St. Guanqian Jie, Suzhou*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20180512-_DSC1392](https://i.loli.net/2021/03/09/teAmRUMlvxoyjVD.jpg)
+
+*桥(Qiao)*, 2018年5月12日(12 MAY, 2018)
+
+*Painted Building*
+
+Jiayi 摄于苏州博物馆，苏州市
+
+*Photoed by Jiayi at Suzhou Museum, Suzhou*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20180512-_DSC1411](C:\Users\Jiayi Li\Desktop\Unclassified Pics\20180512-_DSC1411.jpg)
+
+*窗(Chuang)*, 2018年5月12日(12 MAY, 2018)
+
+*Old Couples*
+
+Jiayi 摄于苏州博物馆，苏州市
+
+*Photoed by Jiayi at Suzhou Museum, Suzhou*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20180512-_DSC1415](https://i.loli.net/2021/03/09/fY3QnOiMyNhLVja.jpg)
+
+*窗(Chuang)*, 2018年5月12日(12 MAY, 2018)
+
+*My Favourite Work So Far*
+
+Jiayi 摄于苏州博物馆，苏州市
+
+*Photoed by Jiayi at Suzhou Museum, Suzhou*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20180512-_DSC1425](https://i.loli.net/2021/03/09/HDFVcLk3NAoS8eU.jpg)
+
+*看(Kan)*, 2018年5月12日(12 MAY, 2018)
+
+*Seeing Through Showcase Window*
+
+Jiayi 摄于苏州博物馆，苏州市
+
+*Photoed by Jiayi at Suzhou Museum, Suzhou*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20180512-_DSC1501](https://i.loli.net/2021/03/09/pS8CAg6vr3ZtwaN.jpg)
+
+*树(Shu)*, 2018年5月12日(12 MAY, 2018)
+
+*What about Looking up to the Sky*
+
+Jiayi 摄于观前街，苏州市
+
+*Photoed by Jiayi on St. Guanqian Jie, Suzhou*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20180512-DSC01542](https://i.loli.net/2021/03/09/9P36yBujlGqfb1N.jpg)
+
+桃花坞(Tao Hua Wu)*, 2018年5月12日(12 MAY, 2018)
+
+*The Arcadia Bus Stop*
+
+Jiayi 摄于桃花坞公交站，苏州市
+
+*Photoed by Jiayi at Taohuawu Bus Stop, Suzhou*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20180512-DSC01542-2](https://i.loli.net/2021/03/09/xstMSayOpl9Pe7k.jpg)
+
+桃花坞(Tao Hua Wu)*, 2018年5月12日(12 MAY, 2018)
+
+*How Many Chances to Enconter Love*
+
+Jiayi 摄于桃花坞公交站，苏州市
+
+*Photoed by Jiayi at Taohuawu Bus Stop, Suzhou*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20180725-_DSC1753](https://i.loli.net/2021/03/09/JDc3aOzgEH4tkPR.jpg)
+
+*男(Nan)*, 2018年7月25日(25 JUL, 2018)
+
+*Guts*
+
+Jiayi 摄于上海当代艺术博物馆，上海市
+
+*Photoed by Jiayi at Power Station Art Museum, Shanghai*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20180930-_DSC1909](https://i.loli.net/2021/03/09/o5birkpsnaYuq1O.jpg)
+
+*风筝(Feng Zheng)*, 2018年9月30日(30 SEPT, 2018)
+
+*Messy Threads*
+
+Jiayi 摄于南寮漁港，新竹市
+
+*Photoed by Jiayi at Nanliao Harbor, Hsingchu*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
 
 
 
