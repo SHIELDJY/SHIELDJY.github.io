@@ -12,18 +12,16 @@ Tongji University, 201804, Shanghai / *Tel*:+8618547186052 / *Email*: <lijiayi19
 
 ![Education_Background](/static/posts/About_Edu_BG.svg)
 
-####    · BACHELOR / 2021(EXPECTED) / TONGJI UNIVERSITY, CHINA
+####    · Ph.D. Candidate / 2021 / Nanyang Technological University, Singapore
+
+- Research Area : Neuromorphic Devices, Memresistor, Spiking Neural Networks
+- Supervisor    : Prof. Ang Diing Shenp
+
+####    · BACHELOR / 2021 / TONGJI UNIVERSITY, Shanghai, CHINA
 
 - Major  : Electronics
 - Minor  : German
-- GPA(Total) : 87/100
-- GPA(2nd and 3rd year) : 89/100
-- Related Courses: Embedded System, ASICs, Semiconductor Physics and Devices, etc.
-
-####    · EXCHANGE STUDENT / 2018.9-2019.1 / NATIONAL CHIAO-TUNG UNIVERSITY, TAIWAN
-
-- Major  : Electronics
-- GPA  : 4.1/4.3
+- GPA    : 87/100
 
 ####    · LANGUAGE PROFICIENCY
 
