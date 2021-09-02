@@ -6,18 +6,18 @@ permalink: /about/
 
 ## Jiayi Li ![jiayi_pic](/assets/img/jiayi_pic.jpg){:height="50%" width="50%"}
 
-Nanyang Technological University / *Tel*:+6598913824 / *Email*: <lijiayi19971127@hotmail.com>
+50 Nanyang Avenue, Singapore, 639798 / *Tel*:+6598913824 / *Email*: <lijiayi19971127@hotmail.com>
 
 ---
 
 ![Education_Background](/static/posts/About_Edu_BG.svg)
 
-####    · Ph.D. Candidate / 2021 / Nanyang Technological University, Singapore
+####    · Ph.D. Candidate / 2021- / NANYANG TECHNOLOGICAL UNIVERSITY, SINGAPORE
 
 - Research Area : Neuromorphic Devices, Memresistor, Spiking Neural Networks
 - Supervisor    : Prof. Ang Diing Shenp
 
-####    · BACHELOR / 2021 / TONGJI UNIVERSITY, Shanghai, CHINA
+####    · BACHELOR / 2016-2021 / TONGJI UNIVERSITY, CHINA
 
 - Major  : Electronics
 - Minor  : German
