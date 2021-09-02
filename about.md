@@ -28,9 +28,9 @@ Nanyang Technological University / *Tel*:+6598913824 / *Email*: <lijiayi19971127
 - TOEFL  : 102 [2020.8]
 - German : B2
 
-<!-- ---
+---
 
-![Achievements](/static/posts/About_Achievements.svg)
+<!-- ![Achievements](/static/posts/About_Achievements.svg)
 
 #### SCHOLARSHIP
 
@@ -66,11 +66,11 @@ Nanyang Technological University / *Tel*:+6598913824 / *Email*: <lijiayi19971127
 - Research Area: Circuit Design
 - Publications:[Not yet Published] Li, Weibo, et al. "Computer based automatic measure experiment of integrated operational amplifier comprehensive parameters"
 
----
+--- -->
 
 ![Skills](/static/posts/About_Skills.svg)
 
-* EMBEDDED SYSTEM DEVELOPMENT
+<!-- * EMBEDDED SYSTEM DEVELOPMENT
 
   - Fluent in C programming for embedded systems, including STM32F1/4 and NXP K60 series.
 
