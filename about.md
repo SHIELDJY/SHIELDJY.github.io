@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Jiayi Li ![jiayi_pic](/assets/img/jiayi_pic.jpg){:height="50%" width="50%"}
 
-Tongji University, 201804, Shanghai / *Tel*:+8618547186052 / *Email*: <lijiayi19971127@hotmail.com>
+Nanyang Technological University / *Tel*:+6598913824 / *Email*: <lijiayi19971127@hotmail.com>
 
 ---
 
@@ -28,7 +28,7 @@ Tongji University, 201804, Shanghai / *Tel*:+8618547186052 / *Email*: <lijiayi19
 - TOEFL  : 102 [2020.8]
 - German : B2
 
----
+<!-- ---
 
 ![Achievements](/static/posts/About_Achievements.svg)
 
@@ -79,7 +79,7 @@ Tongji University, 201804, Shanghai / *Tel*:+8618547186052 / *Email*: <lijiayi19
   - Fluent in simulation with NI Mutisim14
   - Fluent in circuit layout design with DXP Altium Designer
   - Fluent in FPGA development with VIVADO
-  - Simulation with ModelSim
+  - Simulation with ModelSim -->
 
 * Latte Artist
 
