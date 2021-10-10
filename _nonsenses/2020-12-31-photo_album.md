@@ -23,6 +23,16 @@ Selected Pictures from Past Few Years. Update Randomly.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=569214247&auto=1&height=32"></iframe>
 
+```html
+ <div data-video="BiiwclhI5Y8"
+         data-autoplay="1"
+         data-loop="1"
+         id="youtube-audio">
+  </div>
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
+```
+
 *平凡的一天 — 毛不易*
 
 *A Day* — Mao Buyi
