@@ -13,13 +13,15 @@ Selected Pictures from Past Few Years. Update Randomly.
 
 ---
 
-<ul class="list-inline text-center">
+<!-- <ul class="list-inline text-center">
 <audio controls="controls">
     <source src="http://music.163.com/song/media/outer/url?id=569214247.mp3" type="audio/ogg">
     <source src="http://music.163.com/song/media/outer/url?id=569214247.mp3" type="audio/mpeg">
 <embed height="50" width="1500" src="http://music.163.com/song/media/outer/url?id=569214247.mp3" />
 </audio>
-</ul>
+</ul> -->
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=569214247&auto=1&height=32"></iframe>
 
 *平凡的一天 — 毛不易*
 
@@ -29,13 +31,43 @@ Selected Pictures from Past Few Years. Update Randomly.
 
 这首歌是我在2020年10月听到的，本以为是歌手当年发布的作品，怀念病毒肆虐前的生活，却惊讶发现其发表与2017年。无论如何，希望藉由*平凡的一天*和本影集中平凡的一天天给你带来对恢复平凡生活的向往和渴望。——Jiayi
 
-I heard this  song on October, 2020 and thought it was published then. I thought the lyric was about revoking people's memory of days before Covid-19. But the fact is, it was released in the year of 2017 and meant nothing about revoking, which actually makes it much more precious. Anyhow, this is also what I want to express with my album. Please cheer yourself up and be eager for going back to the life before.
+I heard this  song on October, 2020 and thought it was published then. I thought the lyric was about revoking people's memory of days before Covid. Fact is, it was released in the year of 2017 and meant nothing about revoking, which actually makes it much more precious. Anyhow, this is also what I want to express with my album. Please cheer yourself up and be eager for going back to the life before.
 
 ![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
 
 ---
 
 
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20210912-_DSC5844](https://i.loli.net/2021/10/10/rVKLknRvFOy13Zm.jpg)
+
+*垫子(Dian Zi)*, 2021年9月15日(15 Sept, 2021)
+
+*Mat*
+
+*Photoed by Jiayi at Sentosa, Singapore*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20210912-_DSC5856](https://i.loli.net/2021/10/10/kxvwj92NGniJFCr.jpg)
+
+*日落港湾(Ri Luo Gang Wan)*, 2021年9月15日(15 Sept, 2021)
+
+*Sunset Harbor*
+
+*Photoed by Jiayi at Sentosa, Singapore*
+
+![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
+
+![20210821-_DSC5758](https://i.loli.net/2021/10/10/Vbn4o3ldMZuv7J8.jpg)
+
+*坐(Zuo)*, 2021年8月21日(21 Aug, 2021)
+
+*Tree*
+
+*Photoed by Jiayi at Jurong Lake, Singapore*
 
 ![placeholder](https://gitee.com/shieldgary/blogimage/raw/master/placeholder.png)
 
