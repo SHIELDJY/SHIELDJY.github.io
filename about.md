@@ -12,7 +12,7 @@ permalink: /about/
 
 ![Education_Background](/static/posts/About_Edu_BG.svg)
 
-####    · Ph.D. Candidate / 2021- / NANYANG TECHNOLOGICAL UNIVERSITY, SINGAPORE
+####    · Ph.D. Student / 2021- / NANYANG TECHNOLOGICAL UNIVERSITY, SINGAPORE
 
 - Research Area : Neuromorphic Devices, Memresistor, Spiking Neural Networks
 - Supervisor    : Prof. Ang Diing Shenp
