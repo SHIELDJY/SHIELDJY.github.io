@@ -15,7 +15,7 @@ permalink: /about/
 ####    · Ph.D. Student / 2021- / NANYANG TECHNOLOGICAL UNIVERSITY, SINGAPORE
 
 - Research Area : Neuromorphic Devices, Memresistor, Spiking Neural Networks
-- Supervisor    : Prof. Ang Diing Shenp
+- Supervisor    : [Prof. Ang Diing Shenp](https://ntusgprofanggroup.github.io/)
 
 ####    · BACHELOR / 2016-2021 / TONGJI UNIVERSITY, CHINA
 
