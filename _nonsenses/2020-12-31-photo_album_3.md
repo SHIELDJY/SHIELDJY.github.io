@@ -1,12 +1,12 @@
 ---
-title: "2020年精选"
-date: 2020-12-31 23:59:59
+title: "2021年精选"
+date: 2021-12-31 23:59:59
 categories: xinran
 position: blog
 layout: xinran
 ---
 
-Chosen Pictures from Year 2020.
+Chosen Pictures from Year 2021.
 
 ---
 
@@ -24,147 +24,117 @@ Chosen Pictures from Year 2020.
 
 ![blank](/assets/img/placeholder.png)
 
-![夏径](https://s3.ax1x.com/2021/02/28/69lpR0.md.jpg)
+![夏径](https://s2.loli.net/2022/03/06/pmjwS63uq2QdHPV.jpg)
 
-*夏径(XIA JING)*
+*一切都会好的(YIQIE DOU HUIHAODE)*
 
-*Summer Path*
+*Everything will be all right*
 
-*Photoed by Jiayi on Mount Daqing Shan, Hohhot*
-
-
-![blank](/assets/img/placeholder.png)
-
-![雪原](https://s3.ax1x.com/2021/02/28/69lSGq.md.jpg)
-
-*雪原(XUE YUAN)*
-
-*Winter Mountain*
-
-*Photoed by Jiayi on the Flight back home, Nei Mongol*
+*Photoed by Jiayi at Mao Livehouse, Shanghai*
 
 
 ![blank](/assets/img/placeholder.png)
 
-![春树](https://s3.ax1x.com/2021/02/28/69Q7xf.md.jpg)
+![](https://s2.loli.net/2022/03/06/KzDvV6ipNlXITRk.jpg)
 
-*春树(CHUN SHU)*
+*昌吉东(CHANGJI DONG)*
 
-*Spring Tree*
+*East Changji Road Bridge*
 
-*Photoed by Jiayi at Dajialai Village, Hohhot*
-
-
-![blank](/assets/img/placeholder.png)
-
-![冬夜](https://s3.ax1x.com/2021/02/28/69QLqg.md.jpg)
-
-*冬夜(DONG YE)*
-
-*Time Stop at the Winter Night*
-
-*Photoed by Jiayi at a roadacross, Hohhot*
+*Photoed by Jiayi on East Changji Road Bridge, Shanghai*
 
 
 ![blank](/assets/img/placeholder.png)
 
-![隔离](https://s3.ax1x.com/2021/02/28/69QTRP.md.jpg)
+![20210627-_DSC5614](https://s2.loli.net/2022/03/06/2CdLmtsYaoSDpR3.jpg)
 
-*隔离(GE LI)*
+*桥(QIAO)*
 
-*Feeling Through Window*
-
-*Photoed by Jiayi at home, Hohhot*
-
-![blank](/assets/img/placeholder.png)
-
-![剪影](https://s3.ax1x.com/2021/02/28/69QvIs.md.jpg)
-
-*剪影(JIAN YING)*
-
-*Shadows*
-
-*Photoed by Jiayi at Home, Hohhot*
-
-![blank](/assets/img/placeholder.png)
-
-![啸](https://s3.ax1x.com/2021/02/28/69QbM8.md.jpg)
-
-*啸(XIAO)*
-
-*Corner of a Paint*
-
-*Photoed by Jiayi at Zhejiang Art Museum, Hangzhou*
-
-![blank](/assets/img/placeholder.png)
-
-![儿时](https://s3.ax1x.com/2021/02/28/69QqsS.md.jpg)
-
-*儿时(ER SHI)*
-
-*Back to the Childhood*
-
-*Photoed by Jiayi at Sichouzhilu Park (Silkroad Park), Hohhot*
-
-![blank](/assets/img/placeholder.png)
-
-![当回到夏日](https://s3.ax1x.com/2021/02/28/69Q4IA.md.jpg)
-
-*当回到夏日(DANG HUI DAO XIA RI)*
-
-*Back to that Summer*
-
-*Photoed by Jiayi at Shengshuiliang Park, Hohhot*
-
-![blank](/assets/img/placeholder.png)
-
-![当举起相机](https://s3.ax1x.com/2021/02/28/69QoGt.md.jpg)
-
-*当举起相机(DANG JU QI XIANG JI)*
-
-*Back for Photography*
-
-*Photoed by Jiayi on the ferry, Shanghai*
-
-![blank](/assets/img/placeholder.png)
-
-![当望向展馆](https://s3.ax1x.com/2021/02/28/69Qhad.md.jpg)
-
-*当望向展馆(DANG WANG XIANG ZHAN GUAN)*
-
-*Back to the Museum*
-
-*Photoed by Jiayi at Liuhaisu Art Museum, Shanghai*
-
-![blank](/assets/img/placeholder.png)
-
-![当奔向婚礼](https://s3.ax1x.com/2021/02/28/69Qzin.md.jpg)
-
-*当奔向婚礼(DANG BEN XIANG HUN LI)*
-
-*Back to Wedding*
-
-*Photoed by Jiayi at Xihu Lake (West Lake), Hangzhou*
-
-![blank](/assets/img/placeholder.png)
-
-![当走马观花](https://s3.ax1x.com/2021/02/28/69QfVH.md.jpg)
-
-*当走马观花(DANG ZOU MA GUAN HUA)*
-
-*Back for Perfunctory*
-
-*Photoed by Jiayi at Xihu Lake (West Lake), Hangzhou*
-
-![blank](/assets/img/placeholder.png)
-
-![当冬济来临](https://s3.ax1x.com/2021/02/28/69QIPI.md.jpg)
-
-*当冬济来临(DANG DONG JI LAI LIN)*
-
-*Till the Winter Has Arrived*
+*The Bridge I used to pass by*
 
 *Photoed by Jiayi at Tongji University, Shanghai*
+
+
+![blank](/assets/img/placeholder.png)
+
+![20210627-_DSC5619](https://s2.loli.net/2022/03/06/efWROl32uqwhYLK.jpg)
+
+*记忆(JIYI)*
+
+*Memory at Tongji*
+
+*Photoed by Jiayi at Tongji University, Shanghai*
+
+
+![blank](/assets/img/placeholder.png)
+
+![20210717-IMG_0374](https://s2.loli.net/2022/03/06/CYNH9dvGoxkw3qf.jpg)
+
+*午后(WUHOU)*
+
+*Half of the afternoon has passed*
+
+*Photoed by Jiayi at some unknown grassland, Hohhot*
+
+![blank](/assets/img/placeholder.png)
+
+![20210912-_DSC5829](https://s2.loli.net/2022/03/06/J2Dfqm6hEud9bc1.jpg)
+
+*海水变蓝(HAISHUI BIANLIAN)*
+
+*See Sea*
+
+*Photoed by Jiayi at Sentosa, Singapore*
+
+![blank](/assets/img/placeholder.png)
+
+![20210912-_DSC5844](https://s2.loli.net/2022/03/06/EKMwaosj6GZvhQy.jpg)
+
+*野餐垫(YECANDIAN)*
+
+*Afternoon Mat*
+
+*Photoed by Jiayi at Sentosa, Singapore*
+
+![20210912-_DSC5856](https://s2.loli.net/2022/03/06/Bd7DWUHLOkQsAaT.jpg)
+
+*餐厅(CANTING)*
+
+*Sunset Sentosa*
+
+*Photoed by Jiayi at Sentosa, Singapore*
+
+![blank](/assets/img/placeholder.png)
+
+![20211225-_DSC5969](https://s2.loli.net/2022/03/06/PVtoUKDM6n5Tebk.jpg)
+
+*圣诞树(SHENGDANSHU)*
+
+*Christmas Tree*
+
+*Photoed by Jiayi at Parc Oasis, Singapore*
+
+![blank](/assets/img/placeholder.png)
+
+![20211225-_DSC6002](https://s2.loli.net/2022/03/06/aeZ3RkpEDbP1BvK.jpg)
+
+*下过雨的夏天傍晚(XIAGUO YU DE XIATIAN BANGWAN)*
+
+*Twight after Rain*
+
+*Photoed by Jiayi at Chinese Garden, Singapore*
+
+![blank](/assets/img/placeholder.png)
+
+![20211229-_DSC6082](https://s2.loli.net/2022/03/06/yVW2GtJODUBkId3.jpg)
+
+*看(KAN)*
+
+*HOW COME*
+
+*Photoed by Jiayi at National Art Museum, Singapore*
+
+
 
 ---
 
