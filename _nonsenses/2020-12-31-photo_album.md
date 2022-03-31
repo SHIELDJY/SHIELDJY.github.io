@@ -2,9 +2,9 @@
 
 title: "精选"
 date: 2021-03-09 23:59:59
-categories: xinran
+categories: nonsense
 position: blog
-layout: xinran
+layout: fu
 ---
 
 Selected Pictures from Past Few Years. Update Randomly. 

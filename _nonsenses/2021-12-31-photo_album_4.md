@@ -1,9 +1,9 @@
 ---
 title: "2020年精选"
 date: 2020-12-31 23:59:59
-categories: xinran
+categories: nonsense
 position: blog
-layout: xinran
+layout: fu
 ---
 
 Chosen Pictures from Year 2020.
