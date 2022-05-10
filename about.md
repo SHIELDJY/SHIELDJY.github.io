@@ -32,6 +32,8 @@ permalink: /about/
 
 ### Publications
 
+- Abbas, Haider, Jiayi Li, and Diing Shenp Ang. "Conductive Bridge Random Access Memory (CBRAM): Challenges and Opportunities for Memory and Neuromorphic Computing Applications." Micromachines 13.5 (2022): 725.
+
 <!-- ![Achievements](/static/posts/About_Achievements.svg)
 
 #### SCHOLARSHIP
