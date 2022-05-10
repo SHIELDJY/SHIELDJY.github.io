@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Jiayi Li ![jiayi_pic](/assets/img/jiayi_pic.jpg){:height="50%" width="50%"}
 
-50 Nanyang Avenue, Singapore, 639798 / *Tel*:+6598913824 / *Email*: <lijiayi19971127@hotmail.com>
+50 Nanyang Avenue, Singapore, 639798 / *Tel*:+65-82137648 / *Email*: <lijiayi19971127@hotmail.com>
 
 ---
 
@@ -14,21 +14,23 @@ permalink: /about/
 
 ####    · Ph.D. Student / 2021- / NANYANG TECHNOLOGICAL UNIVERSITY, SINGAPORE
 
-- Research Area : Neuromorphic Devices, Memresistor, Spiking Neural Networks
-- Supervisor    : [Prof. Ang Diing Shenp](https://ntusgprofanggroup.github.io/)
+- Research Area : RRAM, Neuromorphic Device, Memristor, Spiking Neural Network
+- Supervisor    : [Prof. Ang Diing Shenp](https://ndl-ntu.github.io/)
 
 ####    · BACHELOR / 2016-2021 / TONGJI UNIVERSITY, CHINA
 
 - Major  : Electronics
-- Minor  : German
-- GPA    : 87/100
+<!-- - Minor  : German
+- GPA    : 87/100 -->
 
-####    · LANGUAGE PROFICIENCY
+<!-- ####    · LANGUAGE PROFICIENCY
 
 - TOEFL  : 102 [2020.8]
-- German : B2
+- German : B2 -->
 
 ---
+
+### Publications
 
 <!-- ![Achievements](/static/posts/About_Achievements.svg)
 
