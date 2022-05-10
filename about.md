@@ -10,7 +10,9 @@ permalink: /about/
 
 ---
 
-![Education_Background](/static/posts/About_Edu_BG.svg)
+<!-- ![Education_Background](/static/posts/About_Edu_BG.svg) -->
+
+### Education Background
 
 ####    · Ph.D. Student / 2021- / NANYANG TECHNOLOGICAL UNIVERSITY, SINGAPORE
 
@@ -72,7 +74,7 @@ permalink: /about/
 
 --- -->
 
-![Skills](/static/posts/About_Skills.svg)
+<!-- ![Skills](/static/posts/About_Skills.svg) -->
 
 <!-- * EMBEDDED SYSTEM DEVELOPMENT
 
@@ -84,6 +86,8 @@ permalink: /about/
   - Fluent in circuit layout design with DXP Altium Designer
   - Fluent in FPGA development with VIVADO
   - Simulation with ModelSim -->
+
+### Skills
 
 * Latte Artist
 
