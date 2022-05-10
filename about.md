@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Jiayi
+title: LI Jiayi
 permalink: /about/
 ---
 
-## Jiayi Li ![jiayi_pic](/assets/img/jiayi_pic.jpg){:height="50%" width="50%"}
+## ![jiayi_pic](/assets/img/jiayi_pic.jpg){:height="50%" width="50%"}
 
 50 Nanyang Avenue, Singapore, 639798 / *Tel*:+65-82137648 / *Email*: <lijiayi19971127@hotmail.com>
 
