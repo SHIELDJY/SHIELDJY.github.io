@@ -22,6 +22,8 @@ permalink: /about/
 ####    · BACHELOR / 2016-2021 / TONGJI UNIVERSITY, CHINA
 
 - Major  : Electronics
+
+
 <!-- - Minor  : German
 - GPA    : 87/100 -->
 
