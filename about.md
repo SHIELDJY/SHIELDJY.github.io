@@ -6,7 +6,7 @@ permalink: /about/
 
 ## ![jiayi_pic](/assets/img/jiayi_pic.jpg){:height="50%" width="50%"}
 
-50 Nanyang Avenue, Singapore, 639798 / *Tel*:+65-82137648 / *Email*: <lijiayi19971127@hotmail.com>
+50 Nanyang Avenue, Singapore, 639798 / *Tel*:+65-82137648 / *Email*: <jiayi004 AT e DOT ntu DOT edu DOT sg>
 
 ---
 
@@ -97,7 +97,7 @@ permalink: /about/
 
 * Photographer
 
-    Also, I have taken some awesome pictures.
+    Also, I take some awesome pictures.
 
     *Details refer to [AlbumOne](https://shieldjy.github.io/nonsense/photo_album_1.html), [AlbumTwo](https://shieldjy.github.io/nonsense/photo_album_2.html), and [AlbumThree](https://shieldjy.github.io/nonsense/photo_album_3.html)*
 
