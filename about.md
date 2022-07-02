@@ -4,8 +4,6 @@ title: LI Jiayi
 permalink: /about/
 ---
 
-## ![jiayi_pic](/assets/img/jiayi_pic.jpg){:height="50%" width="50%"}
-
 <a
 id="cy-effective-orcid-url"
 class="underline"
@@ -19,6 +17,7 @@ class="underline"
     alt="ORCID iD icon"/>
   https://orcid.org/0000-0001-5016-4239
 </a>
+## ![jiayi_pic](/assets/img/jiayi_pic.jpg){:height="50%" width="50%"}
 
 50 Nanyang Avenue, Singapore, 639798 / *Tel*:+65-82137648 / *Email*: [jiayi004 AT e DOT ntu DOT edu DOT sg]( )
 
