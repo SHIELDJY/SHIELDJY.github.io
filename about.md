@@ -50,8 +50,8 @@ class="underline"
 ### Publications
 
 - Abbas, Haider, **Jiayi Li**, and Diing Shenp Ang. "Conductive Bridge Random Access Memory (CBRAM): Challenges and Opportunities for Memory and Neuromorphic Computing Applications." Micromachines 13.5 (2022): 725.
-- Abbas, H.*, Ali, A., **Li, J.**, Tun, T. T. T. & Ang, D. S.* Forming-free, Self-compliance WTe2-based Conductive Bridge RAM with Highly Uniform Multilevel Switching for High-density Memory. IEEE Electron Device Letters, vol. 44, no. 2, pp. 253-256, Feb. 2023, [doi: 10.1109/LED.2022.3231646](doi.org/10.1109/LED.2022.3231646)
-- Asif Ali, Haider Abbas, **Jiayi Li**, Diing Shenp Ang; GeS conducting-bridge resistive memory device with IGZO buffer layer for highly uniform and repeatable switching. Appl. Phys. Lett. 15 May 2023; 122 (20): 203503. [doi:10.1063/5.0149760](doi.org/10.1063/5.0149760)
+- Abbas, H.*, Ali, A., **Li, J.**, Tun, T. T. T. & Ang, D. S.* Forming-free, Self-compliance WTe2-based Conductive Bridge RAM with Highly Uniform Multilevel Switching for High-density Memory. IEEE Electron Device Letters, vol. 44, no. 2, pp. 253-256, Feb. 2023, [doi: 10.1109/LED.2022.3231646](https://doi.org/10.1109/LED.2022.3231646/)
+- Asif Ali, Haider Abbas, **Jiayi Li**, Diing Shenp Ang; GeS conducting-bridge resistive memory device with IGZO buffer layer for highly uniform and repeatable switching. Appl. Phys. Lett. 15 May 2023; 122 (20): 203503. [doi:10.1063/5.0149760](https://doi.org/10.1063/5.0149760/)
 
 <!-- ![Achievements](/static/posts/About_Achievements.svg)
 
