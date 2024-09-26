@@ -49,7 +49,7 @@ permalink: /friends/
 
 ## FRIENDS
 
-- [吕毅](https://codedefault.com/) .NET and Windows Developer, Microsoft MVP
-- [Yuxi](www..com) Bioengineer
+- [Yuxi](yuxiiii.github.io) Bioengineer
+- [Dr. Abbas](https://sites.google.com/view/HaiderAbbas) Professor at Sejong University, Korea
 
 ---
