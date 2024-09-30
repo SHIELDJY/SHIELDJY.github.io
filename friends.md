@@ -49,7 +49,8 @@ permalink: /friends/
 
 ## FRIENDS
 
-- [Yuxi](https://yuxiiii.github.io) Bioengineer
+- [Yuxi](https://yuxiiii.github.io/) Bioengineer
 - [Dr. Abbas](https://sites.google.com/view/HaiderAbbas) Professor at Sejong University, Korea
+- [Fenghe](https://fenghetan9.github.io/) PhD in CS
 
 ---
